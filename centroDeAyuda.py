@@ -21,7 +21,12 @@ page = 0
 centroDeAyuda = {}
 
 # Ejecutar GET-Request
-response = requests.get(urlCategoria+str(urlsTemas[0]))
+#response = requests.get(urlCategoria+str(urlsTemas[1]))
+
+
+#para obtener informacion de temas con paginas
+urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
+response = requests.get(urlPagina)
 
 # Analizar sintácticamente el archivo HTML de BeautifulSoup del texto fuente
 html = BeautifulSoup(response.text, 'html.parser')
@@ -83,10 +88,13 @@ print(json_data.decode())
 
 cont = 0
 testDict ={}
+#Realizar scrapping dentro del ciclo para analizar si existe la palabra Guatemala dentro del texto
+#El campo "GT" sera True si el articulo contiene la palabra, de lo contrario sera False.
 for title in articleTitles:
     testDict.setdefault(title,{})
     testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
     testDict[title].setdefault("descripcion",descriptionTitles[cont])
+    testDict[title].setdefault("GT",False)
     cont+=1
     print(title)
 
