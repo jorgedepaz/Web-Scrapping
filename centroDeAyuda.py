@@ -1,6 +1,5 @@
 #Web scrapping para la categoria de Banca En Línea Y Banca Móvil
-# git config --global user.email "you@example.com"
-# git config --global user.name "Your Name"
+
 # Importar módulos
 import requests
 import json
@@ -59,35 +58,31 @@ hiperlinkHtmlExtended = list()
 for link in hiperlinkHtml:
      link = root+str(link)
      hiperlinkHtmlExtended.append(link)
-print(hiperlinkHtmlExtended)
-print('--------------------------------------------------------')
+
 # Crear una lista de las descripciones de los articulos
 descriptionTitles = list()
 for descriptionTitle in descriptionTitlesHtml:
     descriptionTitles.append(descriptionTitle.text.strip()) 
 
-# Para hacer el test: combinar y mostrar las entradas de ambas listas
-#aList=list()
-#for t in zip(descriptionTitles,hiperlinkHtmlExtended):
-    #print(list(t))
-    #print(len(list(t)))
-    #aList.append(list(t))
 
 #Web scrapping del articulo para setear el flag GT y obtener la última actualización 
-lastUpdate =list()
+#
 flagGT = list() 
+#
 articleLastUpdate = list()   
 for hiperlink in hiperlinkHtmlExtended:
     responseArticle = requests.get(hiperlink)
     htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
-    articleLastUpdate.append(htmlArticle.find_all('div', class_="field field--name-node-changed-date field--type-ds field--label-inline"))
-    #lastUpdate.append(articleLastUpdate.text.strip())
+    articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
 
-#for articleLastUpdate1 in articleLastUpdate:
-    #lastUpdate.append(articleLastUpdate1.text.strip())
+# Crear una lista de los ultimos updates de cada articulo
+lastUpdates =list()
+for lastUpdate in articleLastUpdate:
+    lastUpdates.append(lastUpdate.text.strip())
+#----------------------------------------------------
 
 print('################## Last Update ############################')
-print(articleLastUpdate)
+print(lastUpdates)
 print('###########################################################')
 #-----------------------------------------------------------------------------------
 
@@ -102,10 +97,10 @@ print('###########################################################')
 #for article in articleTitles:
 
 #Codigo para generar archivo JSON.
-centroDeAyuda = {'Centro de ayuda':{'Banca en linea y banca movil':articleTitles}}
+#centroDeAyuda = {'Centro de ayuda':{'Banca en linea y banca movil':articleTitles}}
 
-json_data = json.dumps(centroDeAyuda,ensure_ascii=False,indent=3).encode('utf8')
-print(json_data.decode())
+#json_data = json.dumps(centroDeAyuda,ensure_ascii=False,indent=3).encode('utf8')
+#print(json_data.decode())
 
 cont = 0
 testDict ={}
@@ -116,7 +111,7 @@ for title in articleTitles:
     testDict.setdefault(title,{})
     testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
     testDict[title].setdefault("descripcion",descriptionTitles[cont])
-    testDict[title].setdefault("Última actualización","04/08/2022")
+    testDict[title].setdefault("Última actualización",lastUpdates[cont])
     testDict[title].setdefault("GT",False)
     cont+=1
     
