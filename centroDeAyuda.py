@@ -34,7 +34,10 @@ html = BeautifulSoup(response.text, 'html.parser')
 # Extraer el titulo de los articulos + la descripcion + el hipervinculo
 articleTitlesHtml = html.find_all('h3', class_="field-content")
 descriptionTitlesHtml = html.find_all('div', class_="field field--name-field-summary field--type-string-long field--label-hidden field--item")
+
+#para encontrar si tienen numero de pagina
 pageNumber = html.find_all('ul', class_="pagination js-pager__items")
+
 # Crear una lista de los titulos de los articulos
 articleTitles = list()
 for articleTitle in articleTitlesHtml:    
@@ -62,13 +65,31 @@ print('--------------------------------------------------------')
 descriptionTitles = list()
 for descriptionTitle in descriptionTitlesHtml:
     descriptionTitles.append(descriptionTitle.text.strip()) 
-print(descriptionTitles)
+
 # Para hacer el test: combinar y mostrar las entradas de ambas listas
-aList=list()
-for t in zip(descriptionTitles,hiperlinkHtmlExtended):
+#aList=list()
+#for t in zip(descriptionTitles,hiperlinkHtmlExtended):
     #print(list(t))
     #print(len(list(t)))
-    aList.append(list(t))
+    #aList.append(list(t))
+
+#Web scrapping del articulo para setear el flag GT y obtener la última actualización 
+lastUpdate =list()
+flagGT = list() 
+articleLastUpdate = list()   
+for hiperlink in hiperlinkHtmlExtended:
+    responseArticle = requests.get(hiperlink)
+    htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
+    articleLastUpdate.append(htmlArticle.find_all('div', class_="field field--name-node-changed-date field--type-ds field--label-inline"))
+    #lastUpdate.append(articleLastUpdate.text.strip())
+
+#for articleLastUpdate1 in articleLastUpdate:
+    #lastUpdate.append(articleLastUpdate1.text.strip())
+
+print('################## Last Update ############################')
+print(articleLastUpdate)
+print('###########################################################')
+#-----------------------------------------------------------------------------------
 
 #Se crea una matriz con los datos, el primer indice es para visualizar el articulo el numero varia segun el tema
 #el segundo indice puede ser 0 ó 1 para visualizar la descripcion o el hipervinculo
@@ -91,13 +112,16 @@ testDict ={}
 #Realizar scrapping dentro del ciclo para analizar si existe la palabra Guatemala dentro del texto
 #El campo "GT" sera True si el articulo contiene la palabra, de lo contrario sera False.
 for title in articleTitles:
+
     testDict.setdefault(title,{})
     testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
     testDict[title].setdefault("descripcion",descriptionTitles[cont])
+    testDict[title].setdefault("Última actualización","04/08/2022")
     testDict[title].setdefault("GT",False)
     cont+=1
-    print(title)
+    
 
 json_data = json.dumps(testDict,ensure_ascii=False,indent=3).encode('utf8')
-print('-----------------------------------------------------------------------')
+print('---------------------------------------Abajo el JSON------------------------------------------------')
+#print(articleLastUpdate)
 print(json_data.decode()) 
