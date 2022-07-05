@@ -1,6 +1,8 @@
 #Web scrapping para la categoria de Banca En Línea Y Banca Móvil
 
 # Importar módulos
+from ast import If
+import urllib.request as urllib2
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -74,6 +76,11 @@ for hiperlink in hiperlinkHtmlExtended:
     responseArticle = requests.get(hiperlink)
     htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
     articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
+    htmlCountry = urllib2.urlopen(hiperlink).read()
+    if(str(htmlCountry).find("Guatemala")>0):
+        flagGT.append(True)
+    elif(str(htmlCountry).find("Guatemala")<0):
+        flagGT.append(False) 
 
 # Crear una lista de los ultimos updates de cada articulo
 lastUpdates =list()
@@ -81,9 +88,6 @@ for lastUpdate in articleLastUpdate:
     lastUpdates.append(lastUpdate.text.strip())
 #----------------------------------------------------
 
-print('################## Last Update ############################')
-print(lastUpdates)
-print('###########################################################')
 #-----------------------------------------------------------------------------------
 
 
@@ -97,7 +101,7 @@ for title in articleTitles:
     testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
     testDict[title].setdefault("descripcion",descriptionTitles[cont])
     testDict[title].setdefault("Última actualización",lastUpdates[cont])
-    testDict[title].setdefault("GT",False)
+    testDict[title].setdefault("GT",flagGT[cont])
     cont+=1
     
 
