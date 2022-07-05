@@ -86,21 +86,6 @@ print(lastUpdates)
 print('###########################################################')
 #-----------------------------------------------------------------------------------
 
-#Se crea una matriz con los datos, el primer indice es para visualizar el articulo el numero varia segun el tema
-#el segundo indice puede ser 0 ó 1 para visualizar la descripcion o el hipervinculo
-#print(aList)
-#print(len(aList))
-#print('-----------------------------------')
-#print(aList[0])
-#print(articleTitles)
-#Codigo para indexar cada elemento de la lista en un nuevo objeto
-#for article in articleTitles:
-
-#Codigo para generar archivo JSON.
-#centroDeAyuda = {'Centro de ayuda':{'Banca en linea y banca movil':articleTitles}}
-
-#json_data = json.dumps(centroDeAyuda,ensure_ascii=False,indent=3).encode('utf8')
-#print(json_data.decode())
 
 cont = 0
 testDict ={}
