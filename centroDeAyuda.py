@@ -26,6 +26,7 @@ centroDeAyuda = {}
 
 
 #para obtener informacion de temas con paginas
+#urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
 urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
 response = requests.get(urlPagina)
 
@@ -76,10 +77,12 @@ for hiperlink in hiperlinkHtmlExtended:
     responseArticle = requests.get(hiperlink)
     htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
     articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
-    htmlCountry = urllib2.urlopen(hiperlink).read()
-    if(str(htmlCountry).find("Guatemala")>0):
+    soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"}) 
+    if(str(soup).find("Guatemala")>=0):
+        print(str(soup).find("Guatemala"))
         flagGT.append(True)
-    elif(str(htmlCountry).find("Guatemala")<0):
+    elif(str(soup).find("Guatemala")<0):
+        print(str(soup).find("Guatemala"))
         flagGT.append(False) 
 
 # Crear una lista de los ultimos updates de cada articulo
@@ -106,6 +109,7 @@ for title in articleTitles:
     
 
 json_data = json.dumps(testDict,ensure_ascii=False,indent=3).encode('utf8')
+print(flagGT)
 print('---------------------------------------Abajo el JSON------------------------------------------------')
 #print(articleLastUpdate)
 print(json_data.decode()) 
