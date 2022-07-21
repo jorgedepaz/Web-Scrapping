@@ -24,10 +24,28 @@ centroDeAyuda = {}
 # Ejecutar GET-Request
 #response = requests.get(urlCategoria+str(urlsTemas[1]))
 
+verTodasBancaEnLinea = [
+    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
+    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
+    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
+    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=6', 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7',
+    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=8'
+    ]
 
+verTodasTarjetasDeCredito = [
+    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=1',
+    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=3',
+    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=4'
+]
+verTodasCuentasBancarias = [
+    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito','https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito?field_subcategory=All&page=1'
+]
+verTodasSeguroYCoverturas =[
+    'https://ayuda.baccredomatic.com/es/seguros-y-coberturas'
+]
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
-urlPagina = 'https://ayuda.baccredomatic.com/es/seguros-y-coberturas?subcategory=Tipos%20de%20Seguro' 
+urlPagina = 'https://ayuda.baccredomatic.com/es/seguros-y-coberturas' 
 response = requests.get(urlPagina)
 
 # Analizar sintácticamente el archivo HTML de BeautifulSoup del texto fuente
