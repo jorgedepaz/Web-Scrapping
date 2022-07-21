@@ -450,6 +450,71 @@
                             "HND": true,
                             "NIC": true,
                             "PAN": false
+                         }, "Solución de problemas con SINPE Móvil": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/transferencias/solucion-de-problemas-con-sinpe-movil",
+                            "descripcion": "Si tiene algún problema al momento de hacer transferencias con su servicio SINPE Móvil de BAC Credomatic, consulte esta guía en donde encontrará una posible solución.",
+                            "Última actualización": "03/21/2022",
+                            "GT": false,
+                            "CRI": true,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "Solución de problemas con pagos de servicios": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-pagos-de-servicios",
+                            "descripcion": "Si al momento de hacer pagos de servicios presenta algún problema, visite esta guía para conocer posibles soluciones.",
+                            "Última actualización": "03/21/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "Solución de problemas con recargas móviles": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-recargas-moviles",
+                            "descripcion": "Le presentamos posibles soluciones a problemas frecuentes al hacer recargas móviles desde nuestras plataformas digitales.",
+                            "Última actualización": "03/21/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "¿Cómo hacer transferencias?": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/transferencias/como-hacer-transferencias",
+                            "descripcion": "Visite esta guía para conocer los tipos de transferencias que puede realizar desde los canales digitales de BAC Credomatic.",
+                            "Última actualización": "03/21/2022",
+                            "GT": true,
+                            "CRI": true,
+                            "SLV": true,
+                            "HND": true,
+                            "NIC": true,
+                            "PAN": true
+                         },
+                         "¿En qué consisten las transferencias vía Kash?": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/banca_en_linea_y_banca_movil/transferencias/en-que-consisten-las-transferencias-kash",
+                            "descripcion": "Conozca la funcionalidad de transferencias vía Kash que le permite hacer transferencias de manera rápida, fácil, segura y gratuita a través de Banca Móvil.",
+                            "Última actualización": "05/29/2022",
+                            "GT": true,
+                            "CRI": true,
+                            "SLV": true,
+                            "HND": true,
+                            "NIC": true,
+                            "PAN": true
+                         },
+                         "Solución de problemas con transferencias vía Kash": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/banca_en_linea_y_banca_movil/transferencias/solucion-de-problemas-con-transferencias-kash",
+                            "descripcion": "Ingrese aquí para conocer la solución a problemas comunes con sus transferencias vía Kash, las cuales puede realizar desde Banca Móvil.",
+                            "Última actualización": "05/29/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
                          },
                          "Solución de problemas con Banca en Línea": {
                             "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con",
