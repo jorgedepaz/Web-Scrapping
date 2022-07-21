@@ -37,6 +37,18 @@ verTodasTarjetasDeCredito = [
     'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=3',
     'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=4'
 ]
+verTodasCodigoBAC = [
+    'https://ayuda.baccredomatic.com/es/codigo-bac'
+]
+verTodasCanalesDeAtencion=[
+    'https://ayuda.baccredomatic.com/es/canales-de-atencion','https://ayuda.baccredomatic.com/es/canales-de-atencion?field_subcategory=All&page=1'
+]
+verTodasPrestamos = [
+    'https://ayuda.baccredomatic.com/es/prestamos'
+]
+verTodasComerciosAfiliados = [
+    'https://ayuda.baccredomatic.com/es/comercios-afiliados'
+]
 verTodasCuentasBancarias = [
     'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito','https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito?field_subcategory=All&page=1'
 ]
@@ -45,7 +57,7 @@ verTodasSeguroYCoverturas =[
 ]
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
-urlPagina = 'https://ayuda.baccredomatic.com/es/seguros-y-coberturas' 
+urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
 response = requests.get(urlPagina)
 
 # Analizar sintácticamente el archivo HTML de BeautifulSoup del texto fuente
