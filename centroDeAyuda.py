@@ -57,7 +57,7 @@ verTodasSeguroYCoverturas =[
 ]
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
-urlPagina = 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7' 
+urlPagina = 'https://ayuda.baccredomatic.com/es/seguros-y-coberturas?subcategory=Tipos%20de%20Seguro' 
 response = requests.get(urlPagina)
 
 # Analizar sintácticamente el archivo HTML de BeautifulSoup del texto fuente
