@@ -850,301 +850,301 @@
             },
         "Tarjetas De Crédito":
             {   
-                "Ver todas":{
-                    "Visualizar los estados de cuenta de mis tarjetas": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/estado_de_cuenta/visualizar-los-estados-de-cuenta-de-mis-tarjetas",
-                        "descripcion": "Conozca cómo puede descargar o imprimir los estados de cuenta de sus tarjetas de crédito desde los diferentes canales de contacto de BAC Credomatic.",
-                        "Última actualización": "04/01/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Revisar la información de mi tarjeta de crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas/solicitudes_y_gestiones/informacion-de-tarjeta-de-credito",
-                        "descripcion": "Consulte el saldo de sus tarjetas de crédito BAC Credomatic desde Banca en Línea, Banca Móvil, Asistente Virtual, su estado de cuenta, un ATM o Rapibac.",
-                        "Última actualización": "03/18/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Movimientos flotantes": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/movimientos-flotantes",
-                        "descripcion": "Conozca cómo funcionan, en donde puede consultar y eliminar los movimientos flotantes en las compras que realiza con sus tarjetas de crédito o débito BAC Credomatic.",
-                        "Última actualización": "03/18/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Cambiar el límite de mi tarjeta de crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/cambiar-el-limite-de-mi-tarjeta-de-credito",
-                        "descripcion": "Conozca cómo puede cambiar y conocer el estado de su solicitud de cambio del límite de su tarjeta de crédito a través de Banca en Línea o Banca Móvil.",
-                        "Última actualización": "03/18/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "¿Cómo pagar mi tarjeta de crédito?": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito",
-                        "descripcion": "Conozca cómo pagar su tarjeta desde los canales digitales de BAC Credomatic. También puede hacerlo desde sucursales, RapiBACs, ATMs o por transferencias bancarias.",
-                        "Última actualización": "04/21/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Cargos o transacciones no reconocidas": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/cargos-o-transacciones-no-reconocidas",
-                        "descripcion": "Si tiene un cargo no reconocido, puede solicitar un bloqueo temporal de su tarjeta y pedir una reversión dentro de los 30 días de la fecha de corte del estado de cuenta.",
-                        "Última actualización": "04/05/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },"Reposición y activación de tarjeta por deterioro o robo": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y",
-                        "descripcion": "Desde los canales digitales de BAC Credomatic, puede activar su tarjeta nueva o desde Banca en Línea, puede solicitar una reposición de esta sin trámites adicionales.",
-                        "Última actualización": "07/12/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Redimir o canjear mis puntos BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic",
-                        "descripcion": "Conozca cómo puede redimir los puntos que ha ganado por su lealtad y preferencia. Estos pueden ser canjeados para hacer pagos a su tarjeta de crédito o realizar compras en comercios.",
-                        "Última actualización": "06/27/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Consultar mis puntos BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/consultar-mis-puntos-bac-credomatic",
-                        "descripcion": "Desde los canales digitales de BAC Credomatic, su estado de cuenta, sucursales o Servicio al Cliente puede consultar el total de los puntos que ha ganado.",
-                        "Última actualización": "03/23/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Compras con Cuotas a 0%": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/compras-con-cuotas-0",
-                        "descripcion": "Si se encuentra en Panamá, puede solicitar Cuotas 0% para hacer compras a plazos en comercios afiliados con el crédito disponible de sus tarjetas de crédito a 0% de interés.",
-                        "Última actualización": "03/19/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Compra en Cuotas": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/compra-en-cuotas",
-                        "descripcion": "Si está en El Salvador, solicite la afiliación al programa Compra en Cuotas para obtener un 0% de interés en compras realizadas en los comercios afiliados.",
-                        "Última actualización": "03/19/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Cuotas BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/cuotas-bac-credomatic",
-                        "descripcion": "Si se encuentra en Guatemala, conozca el programa Cuotas BAC Credomatic para realizar compras a plazos con su tarjeta de crédito hasta por 48 meses con 0% de interés.",
-                        "Última actualización": "03/19/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },"Extrafinanciamiento": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/extrafinanciamiento",
-                        "descripcion": "Con el programa de extrafinanciamiento puede solicitar un límite adicional al de su tarjeta de crédito para hacer retiros de efectivo en su cuenta bancaria.",
-                        "Última actualización": "03/18/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Flash Cash BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/flash-cash-bac-credomatic",
-                        "descripcion": "Si tiene cuentas BAC Credomatic en Honduras, con el programa Flash Cash puede solicitar un crédito dentro del límite de su tarjeta hasta por 60 meses y el 80% del disponible de su tarjeta.",
-                        "Última actualización": "03/18/2022",
-                        "GT": false,
-                        "CRI": false,
-                        "SLV": false,
-                        "HND": true,
-                        "NIC": false,
-                        "PAN": false
-                     },
-                     "¿Cómo puedo financiar mis compras a plazos?": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/como-puedo-financiar-mis-compras-plazos",
-                        "descripcion": "Conozca los programas con los que puede trasladar sus compras a plazos con 0% de interés, adquirir préstamos personales o solicitar un extrafinanciamiento.",
-                        "Última actualización": "03/23/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Tasa Cero BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/tasa-cero-bac-credomatic",
-                        "descripcion": "Si se encuentra en Costa Rica o Nicaragua, puede solicitar el programa Tasa Cero para hacer compras con 0% de interés con su tarjeta de crédito BAC Credomatic.",
-                        "Última actualización": "03/21/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Minicuotas BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/minicuotas-bac-credomatic",
-                        "descripcion": "Con el programa Minicuotas puede trasladar sus compras recientes con tarjeta de crédito a cuotas fijas mensuales con un cobro de comisión por plazo.",
-                        "Última actualización": "03/16/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": false,
-                        "HND": true,
-                        "NIC": false,
-                        "PAN": true
-                     },
-                     "Cuotas 0% y Extra 0%": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/cuotas-0-y-extra-0",
-                        "descripcion": "Si está en Honduras, puede solicitar Cuotas 0% para hacer compras a plazos en comercios afiliados con el límite asignado a sus tarjetas de crédito a 0% de interés.",
-                        "Última actualización": "03/19/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },"Conceptos estado de cuenta de tarjeta crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta-credito",
-                        "descripcion": "Le proporcionamos la ruta en nuestros canales digitales y la explicación de los montos que podrá encontrar en el estado de cuenta de sus tarjetas de crédito.",
-                        "Última actualización": "03/18/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Fechas y cargos importantes de mi tarjeta de crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas/fechas-y-cargos-importantes-de-mi-tarjeta-de-credito",
-                        "descripcion": "Conozca cómo puede verificar las fechas de corte y pago de su tarjeta de crédito, cómo puede evitar pagar intereses e identificar los cargos y comisiones comunes de la misma.",
-                        "Última actualización": "01/21/2022",
-                        "GT": false,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Seguridad al hacer compras en línea": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas_de_credito/solicitudes_y_gestiones/seguridad-al-hacer-compras-en-linea",
-                        "descripcion": "Le brindamos consejos para garantizar que, al momento de hacer una compra en línea, su identidad, la información personal y la de sus cuentas bancarias o tarjetas permanezca segura.",
-                        "Última actualización": "04/07/2022",
-                        "GT": false,
-                        "CRI": false,
-                        "SLV": false,
-                        "HND": true,
-                        "NIC": false,
-                        "PAN": false
-                     },
-                     "Información sobre el pago de mi tarjeta de crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/informacion-sobre-el-pago-de-mi-tarjeta-de-credito",
-                        "descripcion": "Conozca información adicional acerca del pago de su tarjeta de crédito. Puede solicitar un cambio de fecha de pago o hacer un acuerdo de pago de la misma.",
-                        "Última actualización": "05/10/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Solicitar una tarjeta adicional": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/solicitar-una-tarjeta-adicional",
-                        "descripcion": "Solicite una tarjeta adicional para un familiar o persona de su elección para conceder una parte del disponible de su tarjeta de crédito BAC Credomatic.",
-                        "Última actualización": "05/30/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "Activación de una nueva tarjeta de crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/activacion-de-una-nueva-tarjeta-de-credito",
-                        "descripcion": "Solicite su primera tarjeta de crédito BAC Credomatic para disponer de beneficios y realizar compras en cuotas mensuales, gozando de promociones exclusivas.",
-                        "Última actualización": "05/10/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },"Devolución o reembolso en mi tarjeta de crédito": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/devolucion-o-reembolso-en-mi-tarjeta-de-credito",
-                        "descripcion": "Conozca cómo puede solicitar una devolución o reembolso de dinero por un saldo a favor o pago erróneo en sus tarjetas de crédito BAC Credomatic.",
-                        "Última actualización": "05/30/2022",
-                        "GT": true,
-                        "CRI": true,
-                        "SLV": true,
-                        "HND": true,
-                        "NIC": true,
-                        "PAN": true
-                     },
-                     "PIN para compras": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/pin-para-compras",
-                        "descripcion": "Por la regulación del BCCR, a partir del 01 de Julio de 2022, para hacer compras con sus tarjetas a través de datáfono, será requerido generar el mismo PIN que utiliza para retirar en un ATM.",
-                        "Última actualización": "05/04/2022",
-                        "GT": false,
-                        "CRI": true,
-                        "SLV": false,
-                        "HND": false,
-                        "NIC": false,
-                        "PAN": false
-                     },
-                     "Consulta de tarjeta desde los canales digitales": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas_de_credito/solicitudes_y_gestiones/consulta-de-tarjeta-desde-los-canales",
-                        "descripcion": "Conozca la funcionalidad de tarjeta virtual con la cual puede ver la información de su tarjeta de crédito o débito BAC Credomatic desde nuestros canales digitales.",
-                        "Última actualización": "05/30/2022",
-                        "GT": false,
-                        "CRI": false,
-                        "SLV": false,
-                        "HND": false,
-                        "NIC": false,
-                        "PAN": true
-                     }
-                },
+               "Ver todas":{
+                  "Visualizar los estados de cuenta de mis tarjetas": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/estado_de_cuenta/visualizar-los-estados-de-cuenta-de-mis-tarjetas",
+                      "descripcion": "Conozca cómo puede descargar o imprimir los estados de cuenta de sus tarjetas de crédito desde los diferentes canales de contacto de BAC Credomatic.",
+                      "Última actualización": "04/01/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Revisar la información de mi tarjeta de crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas/solicitudes_y_gestiones/informacion-de-tarjeta-de-credito",
+                      "descripcion": "Consulte el saldo de sus tarjetas de crédito BAC Credomatic desde Banca en Línea, Banca Móvil, Asistente Virtual, su estado de cuenta, un ATM o Rapibac.",
+                      "Última actualización": "03/18/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Movimientos flotantes": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/movimientos-flotantes",
+                      "descripcion": "Conozca cómo funcionan, en donde puede consultar y eliminar los movimientos flotantes en las compras que realiza con sus tarjetas de crédito o débito BAC Credomatic.",
+                      "Última actualización": "03/18/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Cambiar el límite de mi tarjeta de crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/cambiar-el-limite-de-mi-tarjeta-de-credito",
+                      "descripcion": "Conozca cómo puede cambiar y conocer el estado de su solicitud de cambio del límite de su tarjeta de crédito a través de Banca en Línea o Banca Móvil.",
+                      "Última actualización": "03/18/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "¿Cómo pagar mi tarjeta de crédito?": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito",
+                      "descripcion": "Conozca cómo pagar su tarjeta desde los canales digitales de BAC Credomatic. También puede hacerlo desde sucursales, RapiBACs, ATMs o por transferencias bancarias.",
+                      "Última actualización": "04/21/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Cargos o transacciones no reconocidas": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/cargos-o-transacciones-no-reconocidas",
+                      "descripcion": "Si tiene un cargo no reconocido, puede solicitar un bloqueo temporal de su tarjeta y pedir una reversión dentro de los 30 días de la fecha de corte del estado de cuenta.",
+                      "Última actualización": "04/05/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },"Reposición y activación de tarjeta por deterioro o robo": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y",
+                      "descripcion": "Desde los canales digitales de BAC Credomatic, puede activar su tarjeta nueva o desde Banca en Línea, puede solicitar una reposición de esta sin trámites adicionales.",
+                      "Última actualización": "07/12/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Redimir o canjear mis puntos BAC Credomatic": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic",
+                      "descripcion": "Conozca cómo puede redimir los puntos que ha ganado por su lealtad y preferencia. Estos pueden ser canjeados para hacer pagos a su tarjeta de crédito o realizar compras en comercios.",
+                      "Última actualización": "06/27/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Consultar mis puntos BAC Credomatic": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/consultar-mis-puntos-bac-credomatic",
+                      "descripcion": "Desde los canales digitales de BAC Credomatic, su estado de cuenta, sucursales o Servicio al Cliente puede consultar el total de los puntos que ha ganado.",
+                      "Última actualización": "03/23/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Compras con Cuotas a 0%": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/compras-con-cuotas-0",
+                      "descripcion": "Si se encuentra en Panamá, puede solicitar Cuotas 0% para hacer compras a plazos en comercios afiliados con el crédito disponible de sus tarjetas de crédito a 0% de interés.",
+                      "Última actualización": "03/19/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Compra en Cuotas": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/compra-en-cuotas",
+                      "descripcion": "Si está en El Salvador, solicite la afiliación al programa Compra en Cuotas para obtener un 0% de interés en compras realizadas en los comercios afiliados.",
+                      "Última actualización": "03/19/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Cuotas BAC Credomatic": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/cuotas-bac-credomatic",
+                      "descripcion": "Si se encuentra en Guatemala, conozca el programa Cuotas BAC Credomatic para realizar compras a plazos con su tarjeta de crédito hasta por 48 meses con 0% de interés.",
+                      "Última actualización": "03/19/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },"Extrafinanciamiento": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/extrafinanciamiento",
+                      "descripcion": "Con el programa de extrafinanciamiento puede solicitar un límite adicional al de su tarjeta de crédito para hacer retiros de efectivo en su cuenta bancaria.",
+                      "Última actualización": "03/18/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Flash Cash BAC Credomatic": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/flash-cash-bac-credomatic",
+                      "descripcion": "Si tiene cuentas BAC Credomatic en Honduras, con el programa Flash Cash puede solicitar un crédito dentro del límite de su tarjeta hasta por 60 meses y el 80% del disponible de su tarjeta.",
+                      "Última actualización": "03/18/2022",
+                      "GT": false,
+                      "CRI": false,
+                      "SLV": false,
+                      "HND": true,
+                      "NIC": false,
+                      "PAN": false
+                   },
+                   "¿Cómo puedo financiar mis compras a plazos?": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/como-puedo-financiar-mis-compras-plazos",
+                      "descripcion": "Conozca los programas con los que puede trasladar sus compras a plazos con 0% de interés, adquirir préstamos personales o solicitar un extrafinanciamiento.",
+                      "Última actualización": "03/23/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Tasa Cero BAC Credomatic": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/tasa-cero-bac-credomatic",
+                      "descripcion": "Si se encuentra en Costa Rica o Nicaragua, puede solicitar el programa Tasa Cero para hacer compras con 0% de interés con su tarjeta de crédito BAC Credomatic.",
+                      "Última actualización": "03/21/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Minicuotas BAC Credomatic": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/minicuotas-bac-credomatic",
+                      "descripcion": "Con el programa Minicuotas puede trasladar sus compras recientes con tarjeta de crédito a cuotas fijas mensuales con un cobro de comisión por plazo.",
+                      "Última actualización": "03/16/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": false,
+                      "HND": true,
+                      "NIC": false,
+                      "PAN": true
+                   },
+                   "Cuotas 0% y Extra 0%": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/cuotas-0-y-extra-0",
+                      "descripcion": "Si está en Honduras, puede solicitar Cuotas 0% para hacer compras a plazos en comercios afiliados con el límite asignado a sus tarjetas de crédito a 0% de interés.",
+                      "Última actualización": "03/19/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },"Conceptos estado de cuenta de tarjeta crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta-credito",
+                      "descripcion": "Le proporcionamos la ruta en nuestros canales digitales y la explicación de los montos que podrá encontrar en el estado de cuenta de sus tarjetas de crédito.",
+                      "Última actualización": "03/18/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Fechas y cargos importantes de mi tarjeta de crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas/fechas-y-cargos-importantes-de-mi-tarjeta-de-credito",
+                      "descripcion": "Conozca cómo puede verificar las fechas de corte y pago de su tarjeta de crédito, cómo puede evitar pagar intereses e identificar los cargos y comisiones comunes de la misma.",
+                      "Última actualización": "01/21/2022",
+                      "GT": false,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Seguridad al hacer compras en línea": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas_de_credito/solicitudes_y_gestiones/seguridad-al-hacer-compras-en-linea",
+                      "descripcion": "Le brindamos consejos para garantizar que, al momento de hacer una compra en línea, su identidad, la información personal y la de sus cuentas bancarias o tarjetas permanezca segura.",
+                      "Última actualización": "04/07/2022",
+                      "GT": false,
+                      "CRI": false,
+                      "SLV": false,
+                      "HND": true,
+                      "NIC": false,
+                      "PAN": false
+                   },
+                   "Información sobre el pago de mi tarjeta de crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/informacion-sobre-el-pago-de-mi-tarjeta-de-credito",
+                      "descripcion": "Conozca información adicional acerca del pago de su tarjeta de crédito. Puede solicitar un cambio de fecha de pago o hacer un acuerdo de pago de la misma.",
+                      "Última actualización": "05/10/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Solicitar una tarjeta adicional": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/solicitar-una-tarjeta-adicional",
+                      "descripcion": "Solicite una tarjeta adicional para un familiar o persona de su elección para conceder una parte del disponible de su tarjeta de crédito BAC Credomatic.",
+                      "Última actualización": "05/30/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "Activación de una nueva tarjeta de crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/activacion-de-una-nueva-tarjeta-de-credito",
+                      "descripcion": "Solicite su primera tarjeta de crédito BAC Credomatic para disponer de beneficios y realizar compras en cuotas mensuales, gozando de promociones exclusivas.",
+                      "Última actualización": "05/10/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },"Devolución o reembolso en mi tarjeta de crédito": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/devolucion-o-reembolso-en-mi-tarjeta-de-credito",
+                      "descripcion": "Conozca cómo puede solicitar una devolución o reembolso de dinero por un saldo a favor o pago erróneo en sus tarjetas de crédito BAC Credomatic.",
+                      "Última actualización": "05/30/2022",
+                      "GT": true,
+                      "CRI": true,
+                      "SLV": true,
+                      "HND": true,
+                      "NIC": true,
+                      "PAN": true
+                   },
+                   "PIN para compras": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/pin-para-compras",
+                      "descripcion": "Por la regulación del BCCR, a partir del 01 de Julio de 2022, para hacer compras con sus tarjetas a través de datáfono, será requerido generar el mismo PIN que utiliza para retirar en un ATM.",
+                      "Última actualización": "05/04/2022",
+                      "GT": false,
+                      "CRI": true,
+                      "SLV": false,
+                      "HND": false,
+                      "NIC": false,
+                      "PAN": false
+                   },
+                   "Consulta de tarjeta desde los canales digitales": {
+                      "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/tarjetas_de_credito/solicitudes_y_gestiones/consulta-de-tarjeta-desde-los-canales",
+                      "descripcion": "Conozca la funcionalidad de tarjeta virtual con la cual puede ver la información de su tarjeta de crédito o débito BAC Credomatic desde nuestros canales digitales.",
+                      "Última actualización": "05/30/2022",
+                      "GT": false,
+                      "CRI": false,
+                      "SLV": false,
+                      "HND": false,
+                      "NIC": false,
+                      "PAN": true
+                   }
+               },
                 "Estado de cuenta":
                     {             
                         "Visualizar los estados de cuenta de mis tarjetas": {
@@ -1439,123 +1439,206 @@
             },    
         "Código BAC":
             {
-                "Ver todas":
+               "Ver todas":
                     {
-                           "Dispositivos compatibles con Banca Móvil": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/dispositivos-compatibles-con-banca-movil",
-                              "descripcion": "Para brindarle mayor estabilidad, existen requisitos de los sistemas operativos en los que Banca Móvil son compatibles. Conózcalos en este artículo.",
-                              "Última actualización": "06/23/2022",
-                              "GT": false
-                           },
-                           "Diagnóstico y solución de problemas con Código BAC": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac",
-                              "descripcion": "Si nota que la funcionalidad de Código BAC en Banca Móvil no está funcionando correctamente, con problemas como lentitud o pantalla en blanco, intente realizar los consejos de este artículo.",
-                              "Última actualización": "06/15/2022",
-                              "GT": false
-                           },
-                           "Código BAC está pendiente de aprobar": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/codigo-bac-esta-pendiente-de-aprobar",
-                              "descripcion": "Conozca por qué su Código BAC está pendiente de aprobar. Esto puede ocurrir si es un usuario nuevo o cambió el dispositivo donde tenía activa la funcionalidad de Código BAC en Banca Móvil.",
-                              "Última actualización": "05/29/2022",
-                              "GT": false
-                           },
-                           "¿Qué es Código BAC app?": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/que-es-codigo-bac-app",
-                              "descripcion": "Con la funcionalidad de Código BAC en Banca Móvil puede generar códigos de seguridad que se utilizan como doble factor de autenticación al hacer cualquier transacción.",
-                              "Última actualización": "05/29/2022",
-                              "GT": false
-                           },
-                           "¿Para qué puedo utilizar un Token?": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/para-que-puedo-utilizar-un-token",
-                              "descripcion": "Solicite un Token de manera digital para hacer transferencias internacionales, pago de planillas o proveedores y otras gestiones con mayor nivel de seguridad.",
-                              "Última actualización": "05/29/2022",
-                              "GT": true
-                           },
-                           "Solución de problemas al usar un Token": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/solucion-de-problemas-al-usar-un-token",
-                              "descripcion": "Encuentre en esta guía consejos para problemas comunes al usar un BAC Token. Este dispositivo le permite hacer transacciones con un mayor nivel de seguridad.",
-                              "Última actualización": "03/21/2022",
-                              "GT": false
-                           },
-                           "Uso de Código BAC": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/codigo_bac/uso-de-codigo-bac",
-                              "descripcion": "Si utiliza Código BAC app y Banca Móvil en el mismo dispositivo, active Código BAC en Banca Móvil y gestione sus transacciones en una misma aplicación.",
-                              "Última actualización": "05/26/2022",
-                              "GT": false
-                           },
-                           "Código BAC en Banca Móvil": {
-                              "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/codigo-bac-en-banca-movil",
-                              "descripcion": "Ahora desde Banca Móvil podrá activar Código BAC. Puede hacer sus transferencias y pagos a terceros y generar los códigos de verificación en una misma aplicación.",
-                              "Última actualización": "06/22/2022",
-                              "GT": false
-                           }
+                        "Dispositivos compatibles con Banca Móvil": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/dispositivos-compatibles-con-banca-movil",
+                            "descripcion": "Para brindarle mayor estabilidad, existen requisitos de los sistemas operativos en los que Banca Móvil son compatibles. Conózcalos en este artículo.",
+                            "Última actualización": "07/15/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "Diagnóstico y solución de problemas con Código BAC": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac",
+                            "descripcion": "Si nota que la funcionalidad de Código BAC en Banca Móvil no está funcionando correctamente, con problemas como lentitud o pantalla en blanco, intente realizar los consejos de este artículo.",
+                            "Última actualización": "07/15/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "Código BAC está pendiente de aprobar": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/codigo-bac-esta-pendiente-de-aprobar",
+                            "descripcion": "Conozca por qué su Código BAC está pendiente de aprobar. Esto puede ocurrir si es un usuario nuevo o cambió el dispositivo donde tenía activa la funcionalidad de Código BAC en Banca Móvil.",
+                            "Última actualización": "07/15/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "¿Qué es Código BAC app?": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/que-es-codigo-bac-app",
+                            "descripcion": "Con la funcionalidad de Código BAC en Banca Móvil puede generar códigos de seguridad que se utilizan como doble factor de autenticación al hacer cualquier transacción.",
+                            "Última actualización": "05/29/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": true
+                         },
+                         "¿Para qué puedo utilizar un Token?": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/para-que-puedo-utilizar-un-token",
+                            "descripcion": "Solicite un Token de manera digital para hacer transferencias internacionales, pago de planillas o proveedores y otras gestiones con mayor nivel de seguridad.",
+                            "Última actualización": "07/16/2022",
+                            "GT": true,
+                            "CRI": true,
+                            "SLV": true,
+                            "HND": true,
+                            "NIC": true,
+                            "PAN": true
+                         },
+                         "Solución de problemas al usar un Token": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/solucion-de-problemas-al-usar-un-token",
+                            "descripcion": "Encuentre en esta guía consejos para problemas comunes al usar un BAC Token. Este dispositivo le permite hacer transacciones con un mayor nivel de seguridad.",
+                            "Última actualización": "03/21/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },"Uso de Código BAC": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/codigo_bac/uso-de-codigo-bac",
+                            "descripcion": "Si utiliza Código BAC app y Banca Móvil en el mismo dispositivo, active Código BAC en Banca Móvil y gestione sus transacciones en una misma aplicación.",
+                            "Última actualización": "05/26/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         },
+                         "Código BAC en Banca Móvil": {
+                            "hipervinculo": "https://ayuda.baccredomatic.com//es/codigo_bac/codigo-bac-en-banca-movil",
+                            "descripcion": "Ahora desde Banca Móvil podrá activar Código BAC. Puede hacer sus transferencias y pagos a terceros y generar los códigos de verificación en una misma aplicación.",
+                            "Última actualización": "07/15/2022",
+                            "GT": false,
+                            "CRI": false,
+                            "SLV": false,
+                            "HND": false,
+                            "NIC": false,
+                            "PAN": false
+                         }
                     }
             },
         "Canales De Atención":
             {
-                "Ver todas":
-                    {
-                        "¿Cómo contacto a servicio al cliente?": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/como-contacto-servicio-al-cliente",
-                           "descripcion": "Le brindamos diferentes canales por los cuales puede contactar a Servicio al Cliente de BAC Credomatic: Linea de WhatsApp, Asistente virtual o correo electrónico.",
-                           "Última actualización": "04/05/2022",
-                           "GT": true
-                        },
-                        "Enviar sugerencias o comentarios": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/enviar-sugerencias-o-comentarios",
-                           "descripcion": "Conozca los diversos canales de contacto para recibir sus comentarios y atender sus inquietudes. Trabajamos para mejorar su experiencia.",
-                           "Última actualización": "06/15/2022",
-                           "GT": true
-                        },
-                        "Ubícanos BAC Credomatic": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/ubicanos-bac-credomatic",
-                           "descripcion": "Conozca Ubícanos BAC Credomatic para buscar los horarios y ruta para llegar a las oficinas, agencias, Rapibac o ATMs que están cerca de su ubicación.",
-                           "Última actualización": "05/10/2022",
-                           "GT": true
-                        },
-                        "¿Cómo funciona Rapibac?": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/como-funciona-rapibac",
-                           "descripcion": "En un Rapibac puede hacer transacciones de manera rápida y sin largas filas en horarios prolongados. Si tiene un comercio, solicite afiliarlo a este servicio.",
-                           "Última actualización": "03/20/2022",
-                           "GT": true
-                        },
-                        "Solución de problemas con Ubícanos BAC Credomatic": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/canales_de_atencion/solucion-de-problemas-con-ubicanos-bac-credomatic",       
-                           "descripcion": "Si tiene problemas para utilizar la herramienta de Ubícanos BAC Credomatic, siga estos consejos para resolver inconvenientes comunes.",
-                           "Última actualización": "03/21/2022",
-                           "GT": true
-                        },
-                        "¿Cómo utilizar el canal de WhatsApp?": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/como-utilizar-el-canal-de-whatsapp",
-                           "descripcion": "Habilitamos una nueva funcionalidad en nuestro canal de WhatsApp para mejorar su experiencia. En esta guía le contamos como puede hacer uso de esta.",
-                           "Última actualización": "05/09/2022",
-                           "GT": false
-                        },
-                        "Agendar una cita en una sucursal": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/agendar-una-cita-en-una-sucursal",
-                           "descripcion": "Le contamos cómo puede agendar una cita en una agencia BAC Credomatic, evitando largas filas para hacer sus solicitudes y trámites sin contratiempos.",
-                           "Última actualización": "05/11/2022",
-                           "GT": true
-                        }
+               "Ver todas":
+               {
+                   "¿Cómo contacto a servicio al cliente?": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/como-contacto-servicio-al-cliente",
+                       "descripcion": "Le brindamos diferentes canales por los cuales puede contactar a Servicio al Cliente de BAC Credomatic: Linea de WhatsApp, Asistente virtual o correo electrónico.",
+                       "Última actualización": "04/05/2022",
+                       "GT": true,
+                       "CRI": true,
+                       "SLV": true,
+                       "HND": true,
+                       "NIC": true,
+                       "PAN": true
+                    },
+                    "Enviar sugerencias o comentarios": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/enviar-sugerencias-o-comentarios",
+                       "descripcion": "Conozca los diversos canales de contacto para recibir sus comentarios y atender sus inquietudes. Trabajamos para mejorar su experiencia.",
+                       "Última actualización": "06/15/2022",
+                       "GT": true,
+                       "CRI": true,
+                       "SLV": true,
+                       "HND": true,
+                       "NIC": true,
+                       "PAN": true
+                    },
+                    "Ubícanos BAC Credomatic": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/ubicanos-bac-credomatic",
+                       "descripcion": "Conozca Ubícanos BAC Credomatic para buscar los horarios y ruta para llegar a las oficinas, agencias, Rapibac o ATMs que están cerca de su ubicación.",
+                       "Última actualización": "05/10/2022",
+                       "GT": true,
+                       "CRI": true,
+                       "SLV": true,
+                       "HND": true,
+                       "NIC": true,
+                       "PAN": true
+                    },
+                    "¿Cómo funciona Rapibac?": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/como-funciona-rapibac",
+                       "descripcion": "En un Rapibac puede hacer transacciones de manera rápida y sin largas filas en horarios prolongados. Si tiene un comercio, solicite afiliarlo a este servicio.",
+                       "Última actualización": "03/20/2022",
+                       "GT": true,
+                       "CRI": true,
+                       "SLV": true,
+                       "HND": true,
+                       "NIC": true,
+                       "PAN": true
+                    },
+                    "Solución de problemas con Ubícanos BAC Credomatic": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/personas/canales_de_atencion/solucion-de-problemas-con-ubicanos-bac-credomatic",
+                       "descripcion": "Si tiene problemas para utilizar la herramienta de Ubícanos BAC Credomatic, siga estos consejos para resolver inconvenientes comunes.",
+                       "Última actualización": "03/21/2022",
+                       "GT": true,
+                       "CRI": true,
+                       "SLV": true,
+                       "HND": true,
+                       "NIC": true,
+                       "PAN": true
+                    },
+                    "¿Cómo utilizar el canal de WhatsApp?": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/como-utilizar-el-canal-de-whatsapp",
+                       "descripcion": "Habilitamos una nueva funcionalidad en nuestro canal de WhatsApp para mejorar su experiencia. En esta guía le contamos como puede hacer uso de esta.",
+                       "Última actualización": "05/09/2022",
+                       "GT": false,
+                       "CRI": false,
+                       "SLV": false,
+                       "HND": false,
+                       "NIC": false,
+                       "PAN": false
+                    }, "Agendar una cita en una sucursal": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/canales_de_atencion/agendar-una-cita-en-una-sucursal",
+                       "descripcion": "Le contamos cómo puede agendar una cita en una agencia BAC Credomatic, evitando largas filas para hacer sus solicitudes y trámites sin contratiempos.",
+                       "Última actualización": "05/11/2022",
+                       "GT": true,
+                       "CRI": true,
+                       "SLV": true,
+                       "HND": true,
+                       "NIC": true,
+                       "PAN": true
                     }
+               }
             }, 
         "Préstamos":
             {
-                "Ver todas":
-                    {
-                        "Pago de préstamos desde los canales digitales": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/prestamos/pago-de-prestamos-desde-los-canales-digitales",
-                           "descripcion": "Consulte esta guía para conocer cómo pagar sus préstamos digitalmente. También puede solicitar un débito automático con el que no necesita monitorear sus fechas de pago.",
-                           "Última actualización": "05/09/2022",
-                           "GT": false
-                        },
-                        "Préstamo Personal Universal Pre Aprobado": {
-                           "hipervinculo": "https://ayuda.baccredomatic.com//es/prestamos/prestamo-personal-universal-pre-aprobado",
-                           "descripcion": "Si está en Nicaragua, tiene una tarjeta de crédito BAC Credomatic y recibió una invitación, puede usar el Préstamo Personal Universal Pre Aprobado para financiar sus gastos.",
-                           "Última actualización": "03/19/2022",
-                           "GT": false
-                        }
+               "Ver todas":
+               {
+                   "Pago de préstamos desde los canales digitales": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/prestamos/pago-de-prestamos-desde-los-canales-digitales",
+                       "descripcion": "Consulte esta guía para conocer cómo pagar sus préstamos digitalmente. También puede solicitar un débito automático con el que no necesita monitorear sus fechas de pago.",
+                       "Última actualización": "05/09/2022",
+                       "GT": false,
+                       "CRI": false,
+                       "SLV": false,
+                       "HND": false,
+                       "NIC": false,
+                       "PAN": false
+                    },
+                    "Préstamo Personal Universal Pre Aprobado": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/prestamos/prestamo-personal-universal-pre-aprobado",
+                       "descripcion": "Si está en Nicaragua, tiene una tarjeta de crédito BAC Credomatic y recibió una invitación, puede usar el Préstamo Personal Universal Pre Aprobado para financiar sus gastos.",
+                       "Última actualización": "03/19/2022",
+                       "GT": false,
+                       "CRI": false,
+                       "SLV": false,
+                       "HND": false,
+                       "NIC": true,
+                       "PAN": false
                     }
+               }
             },
         "Seguros Y Coberturas":
             {    
@@ -1652,21 +1735,31 @@
             },
         "Comercios Afiliados":
             {
-                "Ver todas":
-                    {
-                     "Compra Click BAC Credomatic": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/comercios_afiliados/compra-click-bac-credomatic",
-                        "descripcion": "Conozca Compra Click con el cual nuestros comercios afiliados pueden vender en línea productos desde sus ofertas en redes sociales, correos electrónicos o páginas Web.",
-                        "Última actualización": "05/17/2022",
-                        "GT": true
-                     },
-                     "Preguntas frecuentes sobre Compra Click": {
-                        "hipervinculo": "https://ayuda.baccredomatic.com//es/comercios_afiliados/preguntas-frecuentes-sobre-compra-click",
-                        "descripcion": "Conozca con qué tipo de tarjetas puede aceptar pagos, qué tipo de productos puede vender y los canales habilitados para que pueda vender en su comercio utilizando el servicio de Compra Click.",
-                        "Última actualización": "05/17/2022",
-                        "GT": true
-                     }
+               "Ver todas":
+               {
+                   "Compra Click BAC Credomatic": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/comercios_afiliados/compra-click-bac-credomatic",
+                       "descripcion": "Conozca Compra Click con el cual nuestros comercios afiliados pueden vender en línea productos desde sus ofertas en redes sociales, correos electrónicos o páginas Web.",
+                       "Última actualización": "05/17/2022",
+                       "GT": true,
+                       "CRI": false,
+                       "SLV": false,
+                       "HND": false,
+                       "NIC": false,
+                       "PAN": false
+                    },
+                    "Preguntas frecuentes sobre Compra Click": {
+                       "hipervinculo": "https://ayuda.baccredomatic.com//es/comercios_afiliados/preguntas-frecuentes-sobre-compra-click",
+                       "descripcion": "Conozca con qué tipo de tarjetas puede aceptar pagos, qué tipo de productos puede vender y los canales habilitados para que pueda vender en su comercio utilizando el servicio de Compra Click.",
+                       "Última actualización": "05/17/2022",
+                       "GT": true,
+                       "CRI": false,
+                       "SLV": false,
+                       "HND": false,
+                       "NIC": false,
+                       "PAN": false
                     }
+               }
             },
         "Banca Empresarial":
             {
