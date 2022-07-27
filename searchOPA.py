@@ -4,7 +4,10 @@
 from ast import If
 import urllib.request as urllib2
 import requests
+
 import json
+import csv  
+
 from bs4 import BeautifulSoup
 
 #Ruta raiz
@@ -61,6 +64,7 @@ wholePages = [
     'https://ayuda.baccredomatic.com/es/prestamos','https://ayuda.baccredomatic.com/es/seguros-y-coberturas','https://ayuda.baccredomatic.com/es/comercios-afiliados'
 ]
 wholeDict = {}
+href2 = list()
 for page in wholePages:
     #para obtener informacion de temas con paginas
     #urlPagina = 'https://ayuda.baccredomatic.com/es/seguros-y-coberturas?subcategory=Tipos%20de%20Seguro' 
@@ -106,8 +110,8 @@ for page in wholePages:
         soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"}) 
         
         for a in soup.find_all('a', href=True):
-            #print("Found the URL:", a['href'])
             href.append(a['href'])
+            href2.append(a['href'])
 
         testDict.setdefault(articleTitles[cont],{})
         testDict[articleTitles[cont]].setdefault("direccion",hiperlink)
@@ -118,7 +122,20 @@ for page in wholePages:
     wholeDict.update(testDict)
     testDict ={}
     
-     
-
 json_data = json.dumps(wholeDict,ensure_ascii=False,indent=3).encode('utf8')
-print(json_data.decode()) 
+#print(json_data.decode()) 
+with open('article_hiperlinks.json', 'w') as f:
+    json.dump(wholeDict, f, indent=2)
+    print("Archivo json creado")
+
+
+
+
+with open('hiperlinks.csv', 'w', encoding='UTF8') as f:
+    writer = csv.writer(f)
+    writer.writerow(href2)
+    print("Archivo csv creado")
+
+print("Cantidad de articulos analizados: "+str(len(wholeDict)))     
+print("Cantidad total de hiperviculos encontrados: "+str(len(href2)))     
+#2143
