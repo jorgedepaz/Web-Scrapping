@@ -18,8 +18,8 @@
       "https://ayuda.baccredomatic.com/es",
       "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente",
       "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente",
-      "/es/rate/node/1/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/crear-usuario-de-banca-movil-yo-banca-en-linea",
-      "/es/rate/node/1/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/crear-usuario-de-banca-movil-yo-banca-en-linea"
+      "/es/rate/node/1/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/crear-usuario-de-banca-movil-yo-banca-en-linea%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP",
+      "/es/rate/node/1/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/crear-usuario-de-banca-movil-yo-banca-en-linea%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP"
     ]
   },
   "Problemas al ingresar con huella o FaceID": {
@@ -50,8 +50,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-el-software-del",
       "https://www.sucursalelectronica.com/redir/showLogin.go",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/16/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-contrasena%3Fbacid%3DSALG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/16/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-contrasena%3Fbacid%3DSALG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/16/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-contrasena",
+      "/es/rate/node/16/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-contrasena"
     ]
   },
   "Soluci\u00f3n de problemas con Banca M\u00f3vil": {
@@ -76,17 +76,15 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/solucion-de-problemas-con-sinpe-movil",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/21/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
-      "/es/rate/node/21/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0"
+      "/es/rate/node/21/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0%3Fbacid%3DPANG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/21/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0%3Fbacid%3DPANG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "\u00bfC\u00f3mo actualizar la fecha y hora del dispositivo?": {
     "direccion": "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del",
     "hipervinculos": [
       "https://support.apple.com/es-es/HT203483",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
-      "/es/rate/node/31/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del",
-      "/es/rate/node/31/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del"
+      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0"
     ]
   },
   "\u00bfC\u00f3mo actualizar el software del dispositivo?": {
@@ -123,7 +121,9 @@
       "https://support.apple.com/es-es/HT207165%22%20/t%20%22_blank",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
       "http://www.sucursalelectronica.com/redir/showLogin.go",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
+      "/es/rate/node/41/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/actualizar-la-aplicacion",
+      "/es/rate/node/41/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/actualizar-la-aplicacion"
     ]
   },
   "La aplicaci\u00f3n se cierra de forma inesperada": {
@@ -143,9 +143,7 @@
     "direccion": "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-de",
     "hipervinculos": [
       "https://apps.apple.com/app/ibac/id465508552",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
-      "/es/rate/node/51/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-de",
-      "/es/rate/node/51/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-de"
+      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0"
     ]
   },
   "\u00bfC\u00f3mo soluciono el error al ingresar?": {
@@ -155,8 +153,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-contrasena",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/problemas-al-ingresar-con",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/56/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-al%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/56/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-al%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/56/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-al",
+      "/es/rate/node/56/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/como-soluciono-el-error-al"
     ]
   },
   "Tel\u00e9fono perdido o robado": {
@@ -172,9 +170,7 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del",
       "https://support.apple.com/es-es/HT204060",
       "https://support.google.com/android/answer/9079129?hl=es-419",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/81/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/telefono-perdido-o-robado",
-      "/es/rate/node/81/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/telefono-perdido-o-robado"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
     ]
   },
   "Tengo problemas para hacer transferencias": {
@@ -195,8 +191,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/actualizar-la-aplicacion",
       "https://www.sucursalelectronica.com/redir/showLogin.go",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/86/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/tengo-problemas-para-hacer-transferencias",
-      "/es/rate/node/86/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/tengo-problemas-para-hacer-transferencias"
+      "/es/rate/node/86/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/tengo-problemas-para-hacer-transferencias%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/86/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/tengo-problemas-para-hacer-transferencias%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Horarios de transferencias Banca en L\u00ednea y Banca M\u00f3vil": {
@@ -213,8 +209,8 @@
       "https://www2.baccredomatic.com/es-pa/tutoriales/transferencias",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/tengo-problemas-para-hacer-transferencias",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/91/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil%3Fbacid%3DSALG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/91/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil%3Fbacid%3DSALG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/91/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/91/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "\u00bfC\u00f3mo funcionan los retiros sin tarjeta?": {
@@ -223,8 +219,8 @@
       "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
       "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/96/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-funcionan-los-retiros-sin%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/96/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-funcionan-los-retiros-sin%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/96/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-funcionan-los-retiros-sin",
+      "/es/rate/node/96/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-funcionan-los-retiros-sin"
     ]
   },
   "No veo mis productos en Banca M\u00f3vil": {
@@ -295,8 +291,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/pagos_de_servicios-transferencias/calendarizar-mis-pagos-o",
       "https://ayuda.baccredomatic.com/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/cargos-automaticos-bac-credomatic",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/116/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/administrar-pagos-favoritos%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/116/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/administrar-pagos-favoritos%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/116/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/administrar-pagos-favoritos%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/116/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/administrar-pagos-favoritos%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Bloqueo y desbloqueo temporal de productos": {
@@ -313,8 +309,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/pagos_de_servicios/pagos-sin-contacto-con-banca-movil",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/conocer-el-estado-de-mi-solicitud-o",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/136/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/bloqueo-y-desbloqueo-temporal-de%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/136/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/bloqueo-y-desbloqueo-temporal-de%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/136/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/bloqueo-y-desbloqueo-temporal-de",
+      "/es/rate/node/136/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/bloqueo-y-desbloqueo-temporal-de"
     ]
   },
   "\u00bfC\u00f3mo cambiar mi contrase\u00f1a?": {
@@ -378,8 +374,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-el-software-del",
       "https://ayuda.baccredomatic.com/es/banca_movil/como-actualizar-el-software-del-dispositivo",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/161/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-usuario%3Fbacid%3DHONG-INFO-REF-000005-GL-AW-TF-00-000-00-00000/CENTROAYUDABEL",
-      "/es/rate/node/161/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-usuario%3Fbacid%3DHONG-INFO-REF-000005-GL-AW-TF-00-000-00-00000/CENTROAYUDABEL"
+      "/es/rate/node/161/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-usuario%3Fbacid%3DPANG-INFO-SEC-000003-GL-AW-TF-00-000-00-00000/FLUJO-RECUPCONTR",
+      "/es/rate/node/161/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-usuario%3Fbacid%3DPANG-INFO-SEC-000003-GL-AW-TF-00-000-00-00000/FLUJO-RECUPCONTR"
     ]
   },
   "\u00bfC\u00f3mo funciona SINPE M\u00f3vil de BAC Credomatic?": {
@@ -396,7 +392,9 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/historial-y-favoritos-de-sinpe-movil",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/solucion-de-problemas-con-sinpe-movil",
       "https://www2.baccredomatic.com/es-cr/tutoriales/transferencias#s-banca-en-l%C3%ADnea-85896",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
+      "/es/rate/node/176/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/como-funciona-sinpe-movil-de-bac-credomatic%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/176/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/como-funciona-sinpe-movil-de-bac-credomatic%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Conocer el estado de mi solicitud o producto": {
@@ -408,8 +406,8 @@
       "https://www.sucursalelectronica.com/redir/showLogin.go",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/problemas-al-ingresar-con",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/196/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/conocer-el-estado-de-mi-solicitud-o%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/196/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/conocer-el-estado-de-mi-solicitud-o%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/196/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/conocer-el-estado-de-mi-solicitud-o",
+      "/es/rate/node/196/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/conocer-el-estado-de-mi-solicitud-o"
     ]
   },
   "Administrar Mis finanzas desde Banca M\u00f3vil": {
@@ -428,8 +426,8 @@
       "http://www.baccredomatic.com/es-pa/personas/banca-digital/mis-finanzas",
       "http://www.baccredomatic.com/es-pa/personas/banca-digital/mis-finanzas",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-1",
-      "/es/rate/node/241/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/administrar-mis-finanzas-desde-banca%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDACOPYPOSTS",
-      "/es/rate/node/241/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/administrar-mis-finanzas-desde-banca%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDACOPYPOSTS"
+      "/es/rate/node/241/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/administrar-mis-finanzas-desde-banca",
+      "/es/rate/node/241/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/administrar-mis-finanzas-desde-banca"
     ]
   },
   "Soluci\u00f3n de problemas con Mis finanzas": {
@@ -448,7 +446,9 @@
       "https://www.baccredomatic.com/es-gt/personas/banca-digital/mis-finanzas",
       "http://www.baccredomatic.com/es-hn/personas/banca-digital/mis-finanzas",
       "https://www.baccredomatic.com/es-ni/personas/banca-digital/mis-finanzas",
-      "http://www.baccredomatic.com/es-pa/personas/banca-digital/mis-finanzas"
+      "http://www.baccredomatic.com/es-pa/personas/banca-digital/mis-finanzas",
+      "/es/rate/node/246/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-1",
+      "/es/rate/node/246/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-1"
     ]
   },
   "Hacer recargas m\u00f3viles": {
@@ -460,8 +460,8 @@
       "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-recargas-moviles",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/251/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/hacer-recargas-moviles",
-      "/es/rate/node/251/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/hacer-recargas-moviles"
+      "/es/rate/node/251/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/hacer-recargas-moviles%3Fbacid%3DPANC-INFO-SEC-000001-GL-TC-TF-00-000-00-00000/PAGO-SERVICIOS",
+      "/es/rate/node/251/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/hacer-recargas-moviles%3Fbacid%3DPANC-INFO-SEC-000001-GL-TC-TF-00-000-00-00000/PAGO-SERVICIOS"
     ]
   },
   "Cambiar el l\u00edmite diario de transferencias": {
@@ -511,8 +511,8 @@
       "https://www.baccredomatic.com/es-pa/empresas/soluciones-herramientas?categoria=todo&nombre=transferencias-internacionales&id=113411",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/tengo-problemas-para-hacer-transferencias",
       "https://ayuda.baccredomatic.com/es/tengo-problemas-para-realizar-transferencias/tengo-problemas-para-realizar-transferencias",
-      "/es/rate/node/276/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/hacer-transferencias-internacionales",
-      "/es/rate/node/276/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/hacer-transferencias-internacionales"
+      "/es/rate/node/276/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/hacer-transferencias-internacionales%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/276/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/hacer-transferencias-internacionales%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Revisar mis transferencias internacionales": {
@@ -522,9 +522,7 @@
       "https://www1.sucursalelectronica.com/redir/showLogin.go",
       "https://www.sucursalelectronica.com/redir/showLogin.go",
       "https://ayuda.baccredomatic.com/es/banca_en_linea-banca_movil/transferencias-transferencias/horarios-de-transferencias-banca-en-linea",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil",
-      "/es/rate/node/281/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/revisar-mis-transferencias-internacionales%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/281/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/revisar-mis-transferencias-internacionales%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil"
     ]
   },
   "Notificaciones y alertas en canales digitales": {
@@ -539,9 +537,7 @@
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
       "https://ayuda.baccredomatic.com/es/personas/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/la-aplicacion-se",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con",
-      "/es/rate/node/286/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/notificaciones-y-alertas-en-canales",
-      "/es/rate/node/286/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/notificaciones-y-alertas-en-canales"
+      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con"
     ]
   },
   "Compra y venta de divisas": {
@@ -581,8 +577,8 @@
       "https://www2.baccredomatic.com/es-hn/people/compass-bac-credomatic",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/compass/ingresar-compass-e-instalar-el-dispositivo",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/311/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/solicitar-compass-de-bac-credomatic",
-      "/es/rate/node/311/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/solicitar-compass-de-bac-credomatic"
+      "/es/rate/node/311/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/solicitar-compass-de-bac-credomatic%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAP",
+      "/es/rate/node/311/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/solicitar-compass-de-bac-credomatic%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAP"
     ]
   },
   "Ingresar a Compass e instalar el dispositivo": {
@@ -591,8 +587,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/compass/solicitar-compass-de-bac-credomatic",
       "https://compass-baccredomatic-cr.etcpeajes.com/#/sign-in",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/compass/solicitar-compass-de-bac-credomatic",
-      "/es/rate/node/316/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/ingresar-compass-e-instalar-el-dispositivo",
-      "/es/rate/node/316/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/ingresar-compass-e-instalar-el-dispositivo"
+      "/es/rate/node/316/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/ingresar-compass-e-instalar-el-dispositivo%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAP",
+      "/es/rate/node/316/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/compass/ingresar-compass-e-instalar-el-dispositivo%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAP"
     ]
   },
   "Solicitar un adelanto de mi salario": {
@@ -664,8 +660,8 @@
       "https://appleid.apple.com/",
       "https://support.apple.com/es-cl/guide/iphone/iph7b666943a/ios",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/351/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/como-soluciono-los-problemas-con-apple-pay%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/351/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/como-soluciono-los-problemas-con-apple-pay%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/351/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/como-soluciono-los-problemas-con-apple-pay",
+      "/es/rate/node/351/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/como-soluciono-los-problemas-con-apple-pay"
     ]
   },
   "Pagos sin contacto con Smartwatch Fitbit o Garmin": {
@@ -735,8 +731,8 @@
       "https://ayuda.baccredomatic.com/es/codigo_bac/que-es-codigo-bac-app",
       "https://ayuda.baccredomatic.com/es/codigo_bac/para-que-puedo-utilizar-un-token",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/411/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-pagos-de-servicios",
-      "/es/rate/node/411/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-pagos-de-servicios"
+      "/es/rate/node/411/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-pagos-de-servicios%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP",
+      "/es/rate/node/411/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/pagos_de_servicios/solucion-de-problemas-con-pagos-de-servicios%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP"
     ]
   },
   "Soluci\u00f3n de problemas con recargas m\u00f3viles": {
@@ -791,9 +787,7 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/horarios-de-transferencias-banca-en-linea-y-banca-movil",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/cambiar-el-limite-diario-de-transferencias",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/pagos_de_servicios-transferencias/calendarizar-mis-pagos-o",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/481/updown/1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/como-hacer-transferencias",
-      "/es/rate/node/481/updown/-1/thumbs_up_down?destination=/es/banca_en_linea_y_banca_movil/transferencias/como-hacer-transferencias"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
     ]
   },
   "\u00bfEn qu\u00e9 consisten las transferencias v\u00eda Kash?": {
@@ -1000,8 +994,8 @@
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta-credito",
       "https://ayuda.baccredomatic.com/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/191/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/movimientos-flotantes",
-      "/es/rate/node/191/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/movimientos-flotantes"
+      "/es/rate/node/191/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/movimientos-flotantes%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP",
+      "/es/rate/node/191/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/movimientos-flotantes%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP"
     ]
   },
   "Cambiar el l\u00edmite de mi tarjeta de cr\u00e9dito": {
@@ -1042,8 +1036,8 @@
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
       "https://ayuda.baccredomatic.com/es/seguros_y_coberturas/tipos_de_seguro/plan-de-proteccion-contra-robo-y-fraude-prf",
       "https://ayuda.baccredomatic.com/es/seguros_y_coberturas/tipos_de_seguro/seguro-de-hurto-robo-y-extravio-plus-hre",
-      "/es/rate/node/211/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito",
-      "/es/rate/node/211/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito"
+      "/es/rate/node/211/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito%3Fbacid%3DSALG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/211/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito%3Fbacid%3DSALG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Cargos o transacciones no reconocidas": {
@@ -1061,8 +1055,8 @@
       "https://www.sucursalelectronica.com/redir/showLogin.go",
       "https://www.baccredomatic.com/",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/221/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/cargos-o-transacciones-no-reconocidas%3Fbacid%3DGUAG-INFO-REF-000006-GL-AW-TF-00-000-00-00000/CENTRODEAYUDAPRF",
-      "/es/rate/node/221/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/cargos-o-transacciones-no-reconocidas%3Fbacid%3DGUAG-INFO-REF-000006-GL-AW-TF-00-000-00-00000/CENTRODEAYUDAPRF"
+      "/es/rate/node/221/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/cargos-o-transacciones-no-reconocidas%3Fbacid%3DTHBT-VAAB-EFA-333334-TY-BJ-DE-33-333-33-33333/DFAGEBBLHEBCEAABEFDBABDVEB",
+      "/es/rate/node/221/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/cargos-o-transacciones-no-reconocidas%3Fbacid%3DTHBT-VAAB-EFA-333334-TY-BJ-DE-33-333-33-33333/DFAGEBBLHEBCEAABEFDBABDVEB"
     ]
   },
   "Reposici\u00f3n y activaci\u00f3n de tarjeta por deterioro o robo": {
@@ -1092,8 +1086,8 @@
       "https://ayuda.baccredomatic.com/es/seguros_y_coberturas/tipos_de_seguro/seguro-de-hurto-robo-y-extravio-plus-hre",
       "https://www2.baccredomatic.com/es-hn/people/solicitud-hre-credito",
       "https://www2.baccredomatic.com/es-hn/people/solicitud-hre-debito",
-      "/es/rate/node/236/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y",
-      "/es/rate/node/236/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y"
+      "/es/rate/node/236/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP",
+      "/es/rate/node/236/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAAUTOSERVICIOWHATSAPP"
     ]
   },
   "Redimir o canjear mis puntos BAC Credomatic": {
@@ -1110,8 +1104,8 @@
       "https://www2.baccredomatic.com/es-ni/tarjetas/credito/programas-de-lealtad",
       "https://www2.baccredomatic.com/es-pa/people/puntos",
       "https://viajes.baccredomatic.com/#/travel",
-      "/es/rate/node/266/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/266/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/266/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic",
+      "/es/rate/node/266/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic"
     ]
   },
   "Consultar mis puntos BAC Credomatic": {
@@ -1226,7 +1220,9 @@
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito",
       "https://www.sucursalelectronica.com/redir/showLogin.go",
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/como-puedo-financiar-mis-compras-plazos",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
+      "/es/rate/node/401/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/financiamientos/flash-cash-bac-credomatic",
+      "/es/rate/node/401/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/financiamientos/flash-cash-bac-credomatic"
     ]
   },
   "\u00bfC\u00f3mo puedo financiar mis compras a plazos?": {
@@ -1304,7 +1300,9 @@
       "https://www2.baccredomatic.com/es-hn/tarjetas/credito/facilidades-de-credito/extra-0",
       "https://www2.baccredomatic.com/sites/default/files/lista_de_comercios_extra.pdf",
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/estado_de_cuenta/visualizar-los-estados-de-cuenta-de-mis-tarjetas",
-      "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta-credito"
+      "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta-credito",
+      "/es/rate/node/436/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/financiamientos/cuotas-0-y-extra-0",
+      "/es/rate/node/436/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/financiamientos/cuotas-0-y-extra-0"
     ]
   },
   "Conceptos estado de cuenta de tarjeta cr\u00e9dito": {
@@ -1394,9 +1392,7 @@
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/estado_de_cuenta/visualizar-los-estados-de-cuenta-de-mis-tarjetas",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/ubicanos-bac-credomatic",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/no-veo-mis-productos-en",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/526/updown/1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/informacion-sobre-el-pago-de-mi-tarjeta-de-credito",
-      "/es/rate/node/526/updown/-1/thumbs_up_down?destination=/es/tarjetas_de_credito/solicitudes_y_gestiones/informacion-sobre-el-pago-de-mi-tarjeta-de-credito"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
     ]
   },
   "Solicitar una tarjeta adicional": {
@@ -1551,8 +1547,8 @@
       "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
       "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/171/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/cambiar-pin-de-tarjeta-o-pin-de-atm%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/171/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/cambiar-pin-de-tarjeta-o-pin-de-atm%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/171/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/cambiar-pin-de-tarjeta-o-pin-de-atm",
+      "/es/rate/node/171/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/cambiar-pin-de-tarjeta-o-pin-de-atm"
     ]
   },
   "Compra rechazada o denegada": {
@@ -1574,7 +1570,9 @@
       "https://www2.baccredomatic.com/es-gt/tarjetas/credito/servicios/extrafinanciamiento#benficios",
       "https://www2.baccredomatic.com/es-hn/tarjetas/credito/facilidades-de-credito/extra-0#requisitos",
       "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente",
-      "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente"
+      "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente",
+      "/es/rate/node/231/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/compra-rechazada-o-denegada",
+      "/es/rate/node/231/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/compra-rechazada-o-denegada"
     ]
   },
   "Abrir una cuenta bancaria": {
@@ -1602,7 +1600,9 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/como-hacer-transferencias",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/hacer-transferencias-internacionales",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/pagos_de_servicios/administrar-pagos-favoritos",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/compra-y-venta-de-divisas"
+      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/compra-y-venta-de-divisas",
+      "/es/rate/node/306/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/abrir-una-cuenta-bancaria%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/306/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/abrir-una-cuenta-bancaria%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Cargos autom\u00e1ticos BAC Credomatic": {
@@ -1648,8 +1648,8 @@
       "https://ayuda.baccredomatic.com/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/ver-estados-de-cuenta-de-cuentas-bancarias",
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/estado_de_cuenta/visualizar-los-estados-de-cuenta-de-mis-tarjetas",
       "https://ayuda.baccredomatic.com/es/personas/tarjetas/solicitudes_y_gestiones/informacion-de-tarjeta-de-credito",
-      "/es/rate/node/456/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/revisar-mis-estados-de-cuenta",
-      "/es/rate/node/456/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/revisar-mis-estados-de-cuenta"
+      "/es/rate/node/456/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/revisar-mis-estados-de-cuenta%3Fbacid%3DGUAG-INFO-REF-000001-GL-AW-TF-00-000-00-00000/CENTROAYUDAESTADOCUENTA",
+      "/es/rate/node/456/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/revisar-mis-estados-de-cuenta%3Fbacid%3DGUAG-INFO-REF-000001-GL-AW-TF-00-000-00-00000/CENTROAYUDAESTADOCUENTA"
     ]
   },
   "Ver estados de cuenta de cuentas bancarias": {
@@ -1665,8 +1665,8 @@
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/actualizar-mis-datos-desde-los",
       "https://ayuda.baccredomatic.com/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/conceptos-estado-de-cuenta-de-tarjeta",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/461/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/ver-estados-de-cuenta-de-cuentas-bancarias",
-      "/es/rate/node/461/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/ver-estados-de-cuenta-de-cuentas-bancarias"
+      "/es/rate/node/461/updown/1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/ver-estados-de-cuenta-de-cuentas-bancarias%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/461/updown/-1/thumbs_up_down?destination=/es/cuentas_bancarias_y_tarjetas_de_debito/estado_de_cuenta/ver-estados-de-cuenta-de-cuentas-bancarias%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Activaci\u00f3n de una nueva tarjeta de d\u00e9bito": {
@@ -1719,8 +1719,8 @@
       "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-esta-pendiente-de-aprobar",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/26/updown/1/thumbs_up_down?destination=/es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
-      "/es/rate/node/26/updown/-1/thumbs_up_down?destination=/es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac%3Fbacid%3DHONG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
+      "/es/rate/node/26/updown/1/thumbs_up_down?destination=/es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac",
+      "/es/rate/node/26/updown/-1/thumbs_up_down?destination=/es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac"
     ]
   },
   "C\u00f3digo BAC est\u00e1 pendiente de aprobar": {
@@ -1730,35 +1730,7 @@
       "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del",
       "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/126/updown/1/thumbs_up_down?destination=/es/codigo_bac/codigo-bac-esta-pendiente-de-aprobar",
-      "/es/rate/node/126/updown/-1/thumbs_up_down?destination=/es/codigo_bac/codigo-bac-esta-pendiente-de-aprobar"
-    ]
-  },
-  "\u00bfQu\u00e9 es C\u00f3digo BAC app?": {
-    "direccion": "https://ayuda.baccredomatic.com/es/codigo_bac/que-es-codigo-bac-app",
-    "hipervinculos": [
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://play.google.com/store/apps/details?id=net.bac.sbe.mobile.softtoken",
-      "https://play.google.com/store/apps/details?id=net.bac.sbe.mobile.softtoken",
-      "https://appgallery.cloud.huawei.com/ag/n/app/C102058583?channelId=broswer&detailType=0",
-      "https://appgallery.huawei.com/#/app/C102058583?sharePrepath=ag&channelId=broswer&detailType=0",
-      "https://apps.apple.com/cr/app/c%C3%B3digo-bac-credomatic/id1199206374",
-      "https://apps.apple.com/cr/app/c%C3%B3digo-bac-credomatic/id1199206374",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-el-software-del",
-      "https://ayuda.baccredomatic.com/es/diagnostico-y-solucion-de-problemas-con-banca-movil/como-actualizar-el-software-del-dispositivo",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/dispositivos-compatibles-con-banca-movil-y-codigo-bac",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/banca-movil-en-dispositivos-huawei",
-      "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-esta-pendiente-de-aprobar",
-      "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente",
-      "https://ayuda.baccredomatic.com/es/como-contacto-servicio-al-cliente",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac",
-      "/es/rate/node/166/updown/1/thumbs_up_down?destination=/es/codigo_bac/que-es-codigo-bac-app",
-      "/es/rate/node/166/updown/-1/thumbs_up_down?destination=/es/codigo_bac/que-es-codigo-bac-app"
+      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente"
     ]
   },
   "\u00bfPara qu\u00e9 puedo utilizar un Token?": {
@@ -1789,20 +1761,8 @@
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/ubicanos-bac-credomatic",
       "https://ayuda.baccredomatic.com/es/codigo_bac/para-que-puedo-utilizar-un-token",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/ubicanos-bac-credomatic",
-      "/es/rate/node/341/updown/1/thumbs_up_down?destination=/es/codigo_bac/solucion-de-problemas-al-usar-un-token",
-      "/es/rate/node/341/updown/-1/thumbs_up_down?destination=/es/codigo_bac/solucion-de-problemas-al-usar-un-token"
-    ]
-  },
-  "Uso de C\u00f3digo BAC": {
-    "direccion": "https://ayuda.baccredomatic.com/es/personas/codigo_bac/uso-de-codigo-bac",
-    "hipervinculos": [
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/que-es-codigo-bac-app",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/diagnostico-y-solucion-de-problemas-con-codigo-bac",
-      "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
-      "/es/rate/node/486/updown/1/thumbs_up_down?destination=/es/personas/codigo_bac/uso-de-codigo-bac",
-      "/es/rate/node/486/updown/-1/thumbs_up_down?destination=/es/personas/codigo_bac/uso-de-codigo-bac"
+      "/es/rate/node/341/updown/1/thumbs_up_down?destination=/es/codigo_bac/solucion-de-problemas-al-usar-un-token%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/341/updown/-1/thumbs_up_down?destination=/es/codigo_bac/solucion-de-problemas-al-usar-un-token%3Fbacid%3DNICG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "C\u00f3digo BAC en Banca M\u00f3vil": {
@@ -1819,6 +1779,16 @@
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
       "/es/rate/node/491/updown/1/thumbs_up_down?destination=/es/codigo_bac/codigo-bac-en-banca-movil",
       "/es/rate/node/491/updown/-1/thumbs_up_down?destination=/es/codigo_bac/codigo-bac-en-banca-movil"
+    ]
+  },
+  "C\u00f3digo BAC con biometr\u00eda facial": {
+    "direccion": "https://ayuda.baccredomatic.com/es/personas/codigo_bac/codigo-bac-con-biometria-facial",
+    "hipervinculos": [
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcanales_de_atencion%2Fcomo-contacto-servicio-al-cliente%3FMcasTsid%3D15600&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fdiagnostico-y-solucion-de-problemas-con-codigo-bac%3FMcasTsid%3D15600&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcanales_de_atencion%2Fcomo-contacto-servicio-al-cliente%3FMcasTsid%3D15600&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "/es/rate/node/696/updown/1/thumbs_up_down?destination=/es/personas/codigo_bac/codigo-bac-con-biometria-facial",
+      "/es/rate/node/696/updown/-1/thumbs_up_down?destination=/es/personas/codigo_bac/codigo-bac-con-biometria-facial"
     ]
   },
   "\u00bfC\u00f3mo contacto a servicio al cliente?": {
@@ -1909,8 +1879,8 @@
       "mailto:Enrique_martinez@baccredomatic.sv",
       "mailto:correspnobanc@baccredomatic.ni",
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/ubicanos-bac-credomatic",
-      "/es/rate/node/476/updown/1/thumbs_up_down?destination=/es/canales_de_atencion/como-funciona-rapibac",
-      "/es/rate/node/476/updown/-1/thumbs_up_down?destination=/es/canales_de_atencion/como-funciona-rapibac"
+      "/es/rate/node/476/updown/1/thumbs_up_down?destination=/es/canales_de_atencion/como-funciona-rapibac%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDACOPYPOSTS",
+      "/es/rate/node/476/updown/-1/thumbs_up_down?destination=/es/canales_de_atencion/como-funciona-rapibac%3Fbacid%3DGUAG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDACOPYPOSTS"
     ]
   },
   "Soluci\u00f3n de problemas con Ub\u00edcanos BAC Credomatic": {
@@ -1969,8 +1939,8 @@
       "https://ayuda.baccredomatic.com/es/canales_de_atencion/como-contacto-servicio-al-cliente",
       "https://aprendiendo.baccredomatic.com/sobre/que-debo-hacer-si-quiero-saber-cuanto-es-mi-cuota-saldo-plazo-fecha-de-pago-de-mi-prestamo",
       "https://aprendiendo.baccredomatic.com/sobre/que-debo-hacer-si-quiero-saber-cuanto-es-mi-cuota-saldo-plazo-fecha-de-pago-de-mi-prestamo",
-      "/es/rate/node/226/updown/1/thumbs_up_down?destination=/es/prestamos/pago-de-prestamos-desde-los-canales-digitales",
-      "/es/rate/node/226/updown/-1/thumbs_up_down?destination=/es/prestamos/pago-de-prestamos-desde-los-canales-digitales"
+      "/es/rate/node/226/updown/1/thumbs_up_down?destination=/es/prestamos/pago-de-prestamos-desde-los-canales-digitales%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA",
+      "/es/rate/node/226/updown/-1/thumbs_up_down?destination=/es/prestamos/pago-de-prestamos-desde-los-canales-digitales%3Fbacid%3DCRIG-INFO-REF-000000-GL-AW-TF-00-000-00-00000/CENTROAYUDAWA"
     ]
   },
   "Pr\u00e9stamo Personal Universal Pre Aprobado": {
@@ -1992,9 +1962,7 @@
       "https://www2.baccredomatic.com/sites/default/files/ni-tabla_de_costos_prestamos_a_partir_1_octubre_2021.pdf",
       "https://www2.baccredomatic.com/sites/default/files/ni-prestamos/PAGARE_PRESTAMO_PERSONAL_2014.pdf",
       "https://www2.baccredomatic.com/sites/default/files/formulas_de_calculos_y_ejemplos.pdf",
-      "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/tasa-cero-bac-credomatic",
-      "/es/rate/node/381/updown/1/thumbs_up_down?destination=/es/prestamos/prestamo-personal-universal-pre-aprobado",
-      "/es/rate/node/381/updown/-1/thumbs_up_down?destination=/es/prestamos/prestamo-personal-universal-pre-aprobado"
+      "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/tasa-cero-bac-credomatic"
     ]
   },
   "Llevar el control de mis seguros o coberturas": {
@@ -2114,97 +2082,8 @@
       "/es/rate/node/471/updown/-1/thumbs_up_down?destination=/es/seguros_y_coberturas/tipos_de_seguro/seguro-de-vida-saldo-de-deuda-o-deudor-ssd-svsd"
     ]
   },
-  "Compra Click BAC Credomatic": {
-    "direccion": "https://ayuda.baccredomatic.com/es/comercios_afiliados/compra-click-bac-credomatic",
-    "hipervinculos": [
-      "https://www2.baccredomatic.com/es-gt/comercios-compra-click",
-      "https://www2.baccredomatic.com/es-gt/comercios-compra-click",
-      "https://www2.baccredomatic.com/es-gt/corporate-business/solicitud/solicitud-compra-click",
-      "http://bit.ly/PBXAfi",
-      "/es/rate/node/581/updown/1/thumbs_up_down?destination=/es/comercios_afiliados/compra-click-bac-credomatic",
-      "/es/rate/node/581/updown/-1/thumbs_up_down?destination=/es/comercios_afiliados/compra-click-bac-credomatic"
-    ]
-  },
-  "Preguntas frecuentes sobre Compra Click": {
-    "direccion": "https://ayuda.baccredomatic.com/es/comercios_afiliados/preguntas-frecuentes-sobre-compra-click",
-    "hipervinculos": [
-      "https://baccredomaticnet-my.sharepoint.com/:w:/g/personal/natalia_abdelnurl_asesorexternoca_com/EXzUn0cC4XlOvtfqbQ_LpwEBdarY2BKgP0zXJRr6PiOhWg?e=FVPInf",
-      "https://baccredomaticnet-my.sharepoint.com/:w:/g/personal/natalia_abdelnurl_asesorexternoca_com/EXzUn0cC4XlOvtfqbQ_LpwEBdarY2BKgP0zXJRr6PiOhWg?e=FVPInf",
-      "https://ayuda.baccredomatic.com/es/comercios_afiliados/compra-click-bac-credomatic",
-      "http://bit.ly/PBXAfi",
-      "/es/rate/node/586/updown/1/thumbs_up_down?destination=/es/comercios_afiliados/preguntas-frecuentes-sobre-compra-click",
-      "/es/rate/node/586/updown/-1/thumbs_up_down?destination=/es/comercios_afiliados/preguntas-frecuentes-sobre-compra-click"
-    ]
-  },
-  "Pago de impuestos tributarios y aduanas": {
-    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/pago-de-impuestos-tributarios-y-aduanas",
-    "hipervinculos": [
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Ftesoreria%2Fmedios-de-pago%2Fimpuestos-y-aduanas%3FMcasTsid%3D20892%23requisitos&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fpymes%2Ftesoreria%2Fmedios-de-pago%2Fimpuestos-y-aduanas%3FMcasTsid%3D20892%23requisitos&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-hn%2Fpymes%2Fpagos%3Fcategoria%3Dpago-de-impuestos%26nombre%3Dpago-de-impuestos-%26id%3D149221%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fcorporaciones-e-instituciones%2Ftesoreria%2Fmedios-de-pago%2Fpago-de-impuestos-y-aduanas%3FMcasTsid%3D20892%23requisitos&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fsites%2Fdefault%2Ffiles%2Fsolicitud_de_pre-registro_para_pagos_de_impuestos-nic-0000370.pdf%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "mailto:impuestostgu@baccredomatic.hn",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fsites%2Fdefault%2Ffiles%2Fsolicitud_de_pre-registro_para_pagos_de_impuestos-nic-0000370.pdf%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "/es/rate/node/611/updown/1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/pago-de-impuestos-tributarios-y-aduanas",
-      "/es/rate/node/611/updown/-1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/pago-de-impuestos-tributarios-y-aduanas"
-    ]
-  },
-  "Crear permisos o mancomunaciones": {
-    "direccion": "https://ayuda.baccredomatic.com/es/comercios_afiliados/crear-permisos-o-mancomunaciones",
-    "hipervinculos": [
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fbanca_en_linea_y_banca_movil%2Fusuario_y_contrasena%2Fcrear-usuario-de-banca-movil-yo-banca-en-linea%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcomo-contacto-servicio-al-cliente%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fbanca_en_linea_y_banca_movil%2Ftransferencias%2Fcambiar-el-limite-diario-de-transferencias%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "/es/rate/node/616/updown/1/thumbs_up_down?destination=/es/comercios_afiliados/crear-permisos-o-mancomunaciones",
-      "/es/rate/node/616/updown/-1/thumbs_up_down?destination=/es/comercios_afiliados/crear-permisos-o-mancomunaciones"
-    ]
-  },
-  "Pago de servicios en cuentas corporativas": {
-    "direccion": "https://ayuda.baccredomatic.com/es/comercios_afiliados/pago-de-servicios-en-cuentas-corporativas",
-    "hipervinculos": [
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fbanca_en_linea_y_banca_movil%2Fusuario_y_contrasena%2Fcrear-usuario-de-banca-movil-yo-banca-en-linea%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.youtube.com.mcas.ms%2Fwatch%3Fv%3DQua9IJDU9AA%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fbanca_en_linea_y_banca_movil%2Fpagos_de_servicios%2Fadministrar-pagos-favoritos%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww1.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fbanca_en_linea_y_banca_movil%2Fpagos_de_servicios%2Fadministrar-pagos-favoritos%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://ayuda.baccredomatic.com/es/comercios_afiliados/crear-permisos-o-mancomunaciones",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/comercios_afiliados/crear-permisos-o-mancomunaciones",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcuentas_bancarias_y_tarjetas_de_debito%2Festado_de_cuenta%2Frevisar-mis-estados-de-cuenta%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fcodigo-bac-en-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fcodigo_bac%2Fpara-que-puedo-utilizar-un-token%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "https://ayuda.baccredomatic.com/es/codigo_bac/codigo-bac-en-banca-movil",
-      "https://ayuda.baccredomatic.com/es/comercios_afiliados/crear-permisos-o-mancomunaciones",
-      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fsupport.google.com.mcas.ms%2Faccounts%2Fanswer%2F32050%3Fhl%3Des%26co%3DGENIE.Platform%253DDesktop%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
-      "/es/rate/node/621/updown/1/thumbs_up_down?destination=/es/comercios_afiliados/pago-de-servicios-en-cuentas-corporativas",
-      "/es/rate/node/621/updown/-1/thumbs_up_down?destination=/es/comercios_afiliados/pago-de-servicios-en-cuentas-corporativas"
-    ]
-  },
   "Preguntas frecuentes con Compra Click": {
-    "direccion": "https://ayuda.baccredomatic.com/es/comercios_afiliados/preguntas-frecuentes-con-compra-click",
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/preguntas-frecuentes-con-compra-click",
     "hipervinculos": [
       "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/compra-click",
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/tasa-cero-bac-credomatic",
@@ -2214,8 +2093,124 @@
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/cuotas-0-y-extra-0",
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/tasa-cero-bac-credomatic",
       "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/compras-con-cuotas-0",
-      "/es/rate/node/631/updown/1/thumbs_up_down?destination=/es/comercios_afiliados/preguntas-frecuentes-con-compra-click",
-      "/es/rate/node/631/updown/-1/thumbs_up_down?destination=/es/comercios_afiliados/preguntas-frecuentes-con-compra-click"
+      "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/compra-click",
+      "https://wa.me/50687429595",
+      "http://bit.ly/PBXAfi16b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://wa.me/50494389457",
+      "https://wa.me/50575309222",
+      "https://wa.me/50760306495",
+      "/es/rate/node/631/updown/1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/preguntas-frecuentes-con-compra-click",
+      "/es/rate/node/631/updown/-1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/preguntas-frecuentes-con-compra-click"
+    ]
+  },
+  "Afiliar un comercio": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/afiliar-un-comercio",
+    "hipervinculos": [
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fcomercios-afiliados%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEdqxwlxGhKdKt2AvpofdSwkBW9B3KUKdT2e3KxkXOOGtVw%3Fe%3DN853zA%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Dtasa-cero%26id%3D150911%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Dmini-cuotas%26id%3D150916%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Dmipromo%26id%3D150921%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Drapibac%26id%3D150926%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dmedios-de-pago%26nombre%3Dfullpos%26id%3D150896%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dmedios-de-pago%26nombre%3Ddatafono%26id%3D154151%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dmedios-de-pago%26nombre%3Dmipos%26id%3D154156%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dventas-digitales%26nombre%3De-commerce%26id%3D150856%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dventas-digitales%26nombre%3Dcompra-click%26id%3D150866%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fkashlatam.com.mcas.ms%2Fcr%2F%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Dtarjeta-de-regalo%26id%3D150976%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-cr%2Fpymes%2Fsoluciones-y-herramientas%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Dmembership-rewards%26id%3D150966%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fcomercios-afiliados%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEeVzr2dzrixKth3RaIaafd4BZ5CQDUJdIQ6Gm1ezCJJADg%3Fe%3D1FG3h0%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FETzO4Jz2xANKjMOsV5FnouIBRF5E91uQ9k_09L1wuujFOg%3Fe%3DzsceOG%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Festamos-mas-cerca-de-ti%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fkolau%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEapxPv7yrBNPnWgjfhP4mHQBDXZ7cjhtg1BDCB5VVxX9Jw%3Fe%3DsIc1pN%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Fbanca_en_linea_y_banca_movil%2Fpagos_de_servicios%2Fpagos-sin-contacto-con-banca-movil%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-hn%2Fpymes%2Fcomercio-afiliado%3Fcategoria%3Dherramientas-para-ventas%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEeVzr2dzrixKth3RaIaafd4BZ5CQDUJdIQ6Gm1ezCJJADg%3Fe%3D1FG3h0%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEYC6LwBPNEFCh2j7oru3q8IBF9Iau6WYCw-zXQBvzGFGiA%3Fe%3D84lE4l%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-hn%2Fpymes%2Fcomercio-afiliado%3Fcategoria%3Dherramientas-para-ventas%26nombre%3Dsistemas-integrales%26id%3D159626%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fcomercios-afiliados%2Fherramientas-para-aceptar-pagos%2Fcompra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fcomercios-afiliados%2Fservicios%2Fautocred%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fcomercios-afiliados%2Fservicios%2Fcapacitaciones-presenciales%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEeVzr2dzrixKth3RaIaafd4BZ5CQDUJdIQ6Gm1ezCJJADg%3Fe%3DK9DHuj%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEYC6LwBPNEFCh2j7oru3q8IBF9Iau6WYCw-zXQBvzGFGiA%3Fe%3D84lE4l%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEcEzraGeb3dGj2fWrHeR1x8BbLSwleIMsflxzr5fu6odlA%3Fe%3DLGl0d9%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Ffinanciamientos%2Ftasa-cero-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEcPYqOFc_ZVKg0mmeFtal8IB5GjesS-lf7i1t2d7x0yMcQ%3Fe%3DriswrA%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-pa%2Fempresas%2Fservicios-para-afiliados%3Fcategoria%3Dfacilidades-de-pagos%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEeVzr2dzrixKth3RaIaafd4BZ5CQDUJdIQ6Gm1ezCJJADg%3Fe%3D1FG3h0%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEYC6LwBPNEFCh2j7oru3q8IBF9Iau6WYCw-zXQBvzGFGiA%3Fe%3DFDuScf%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEcEzraGeb3dGj2fWrHeR1x8BbLSwleIMsflxzr5fu6odlA%3Fe%3D76meXM%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fbaccredomaticnet-my.sharepoint.com.mcas.ms%2F%3Aw%3A%2Fg%2Fpersonal%2Fnatalia_abdelnurl_asesorexternoca_com%2FEcPYqOFc_ZVKg0mmeFtal8IB5GjesS-lf7i1t2d7x0yMcQ%3Fe%3DmEsHLE%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fmerchants%2Fsolicitud%2Fsolicitud-de-afiliacion-comercios-afiliados-de-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fsolicitud-de-nueva-afiliacion%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-hn%2Fpeople%2Fsolicitud-afiliacion-nueva%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.sucursalelectronica.com.mcas.ms%2Fredir%2FshowLogin.go%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.baccredomatic.com.mcas.ms%2Fes-pa%2Fempresas%2Fservicios-para-afiliados%3Fcategoria%3Dfacilidades-de-pagos%26nombre%3Dmipos%26id%3D114316%26McasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://wa.me/50687429595?text=Comercios%20afiliados,",
+      "http://bit.ly/PBXAfi",
+      "https://wa.me/50494389457",
+      "https://wa.me/50575309222",
+      "https://wa.me/50760306495",
+      "/es/rate/node/636/updown/1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/afiliar-un-comercio",
+      "/es/rate/node/636/updown/-1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/afiliar-un-comercio"
+    ]
+  },
+  "E-commerce": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/e-commerce",
+    "hipervinculos": [
+      "mailto:afiliados@pa.bac.net",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-pa%2Fcomercios-afiliados%2Fherramientas-aceptar-pagos%2Fe-commerce%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fsites%2Fdefault%2Ffiles%2Ftarifario_final_actualizacion_qsi_17_12_2021_rev_070122_aprobado_vf_web.pdf%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fcomercios-afiliados%2Fherramientas-aceptar-pagos%2Fe-commerce%3FMcasTsid%3D20892%23condiciones&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fcorporate-business%2Fsolicitud%2Fsolicitud-ecommerce%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-hn%2Fpeople%2Fherramientas-para-aceptar-pagos%2Fe-commerce%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fcomercios-afiliados%2Fherramientas-aceptar-pagos%2Fe-commerce%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-pa%2Fcomercios-afiliados%2Fherramientas-aceptar-pagos%2Fe-commerce%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://wa.me/50687429595",
+      "http://bit.ly/PBXAfi",
+      "https://wa.me/50494389457",
+      "https://wa.me/50575309222",
+      "https://wa.me/50760306495",
+      "/es/rate/node/651/updown/1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/e-commerce",
+      "/es/rate/node/651/updown/-1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/e-commerce"
+    ]
+  },
+  "Compra Click": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/compra-click",
+    "hipervinculos": [
+      "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/afiliar-un-comercio",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fpeople%2Fsolicitud%2Fsolicitud-compra-click-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fnode%2F55621%3FMcasTsid%3D20892%23requisitos&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fcomercios-compra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-hn%2Fpeople%2Fherramientas-para-aceptar-pagos%2Fcompra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fcomercios-afiliados%2Fherramientas-para-aceptar-pagos%2Fcompra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-pa%2Fmerchants%2Fherramientas-para-aceptar-pagos%2Fcompra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Ffinanciamientos%2Ftasa-cero-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Ffinanciamientos%2Fminicuotas-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/financiamientos/cuotas-bac-credomatic",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Ffinanciamientos%2Fcuotas-0-y-extra-0%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Fsolicitudes_y_gestiones%2Fredimir-o-canjear-mis-puntos-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Ffinanciamientos%2Ftasa-cero-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fayuda.baccredomatic.com.mcas.ms%2Fes%2Ftarjetas_de_credito%2Ffinanciamientos%2Fcompras-con-cuotas-0%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=http%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-cr%2Fmerchants%2Fsolicitud%2Fsolicitud-de-afiliacion-comercios-afiliados-de-bac-credomatic%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "mailto:gestiones-pymes@baccredomatic.cr",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-gt%2Fcorporate-business%2Fsolicitud%2Fsolicitud-compra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://www2.baccredomatic.com/es-hn/people/solicitud/solicitud-compra-click",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-ni%2Fpeople%2Fsolicitud%2Fsolicitud-compra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "mailto:pagosenlinea@baccredomatic.ni",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fes-pa%2Fsolicitud-compra-click%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://mcas-proxyweb.mcas.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww2.baccredomatic.com.mcas.ms%2Fsites%2Fdefault%2Ffiles%2Ftarifario_final_actualizacion_qsi_17_12_2021_rev_070122_aprobado_vf_web.pdf%3FMcasTsid%3D20892&McasCSRF=916b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://wa.me/50687429595",
+      "http://bit.ly/PBXAfi16b4add3627352dca2d1602db669ded914dade7221e8e68c2adb219aea15b8f",
+      "https://wa.me/50494389457",
+      "https://wa.me/50575309222",
+      "https://wa.me/50760306495",
+      "https://ayuda.baccredomatic.com/es/comercios_afiliados/preguntas-frecuentes-con-compra-click",
+      "/es/rate/node/676/updown/1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/compra-click",
+      "/es/rate/node/676/updown/-1/thumbs_up_down?destination=/es/pymes/comercios_afiliados/compra-click"
     ]
   }
 }
