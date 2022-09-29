@@ -173,7 +173,6 @@ for page in wholePages:
     #Realizar scrapping dentro del ciclo para analizar si existe la palabra Guatemala dentro del texto
     #El campo "GT" sera True si el articulo contiene la palabra, de lo contrario sera False.
     for gestion in gestiones:
-
         testDict.setdefault(gestion,{})
         # testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
         # testDict[title].setdefault("descripcion",descriptionTitles[cont])
@@ -186,32 +185,35 @@ for page in wholePages:
         # testDict[title].setdefault("HND",flagHND[cont])
         # testDict[title].setdefault("NIC",flagNIC[cont])
         # testDict[title].setdefault("PAN",flagPAN[cont])
-        articleLastUpdate = list()   
-        for hiperlink in hiperlinkHtmlExtended:
-            responseArticle = requests.get(hiperlink)
-            htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
-            articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
-            soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"})
+        # articleLastUpdate = list()   
+        # cont+=1
+    
+    articleLastUpdate = list() 
+    hiperlinksList = list()
+    for hiperlink in hiperlinkHtmlExtended:
+        responseArticle = requests.get(hiperlink)
+        htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
+        articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
+        soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"})
             #soup.lower()
             #------Banca Móvil---------
-            if(str(soup).lower().find(gestion)>=0):
-                print(str(soup).find(gestion))
-                testDict[gestion].setdefault("hipervinculo"+cont,hiperlinkHtmlExtended[cont])
+        if(str(soup).lower().find(gestion)>=0):
+            print(str(soup).find(gestion))
+            hiperlinksList.append(hiperlinkHtmlExtended[cont])
+            
+            testDict[gestion].setdefault("hipervinculo"+cont,hiperlinkHtmlExtended[cont])
                 #flagBM.append(True)
                 #contadorBM+=1
-            elif(str(soup).find(gestion)<0):
-                print(str(soup).find(gestion))
+        elif(str(soup).find(gestion)<0):
+            print(str(soup).find(gestion))
                 #flagBM.append(False)
         #Ultima linea de la comprobacion
-        cont+=1
-
-    
         
 
     # Crear una lista de los ultimos updates de cada articulo
-    lastUpdates =list()
-    for lastUpdate in articleLastUpdate:
-        lastUpdates.append(lastUpdate.text.strip())
+    # lastUpdates =list()
+    # for lastUpdate in articleLastUpdate:
+    #     lastUpdates.append(lastUpdate.text.strip())
     #----------------------------------------------------
 
     #-----------------------------------------------------------------------------------

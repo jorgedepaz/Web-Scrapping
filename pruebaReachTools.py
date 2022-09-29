@@ -89,7 +89,5 @@ for x in range(10):
     urlPagina = page
     response = requests.get("https://g.bac.gt/requestTest")
     print(response)
-   
-#print(flagGT)
 
 print("Ojala esta mierda no nos afecte")
