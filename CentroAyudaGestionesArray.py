@@ -75,6 +75,32 @@ wholePages = [#Actualizado 29/09/2022
     'https://ayuda.baccredomatic.com/es/seguros-y-coberturas',
     'https://ayuda.baccredomatic.com/es/comercios-afiliados','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=1'
 ]
+
+gestiones = ["cobertura de tarjeta de débito","cobertura de tarjeta de crédito","actualizar sus datos",
+"cancelación de cuenta","reactivación de una cuenta bancaria","administrar correo electrónico para recibir estados de cuenta",
+"administrar mensajes bac","administrar tarjetas adicionales (administrador virtual)","bloquear temporalmente una tarjeta de crédito",
+"Cambiar el tipo o marca de la tarjeta tc","cambiar la fecha de pago","cancelar anticipadamente un extrafinaciamiento",
+"disminuir el límite de crédito","eliminar el retenido de compra de la tarjeta de crédito","pagar la tarjeta de crédito con débito a cuenta",
+"referir a un amigo","solicitar conversión de moneda del saldo de crédito","solicitar el traslado o devolución de saldo a favor de su tarjeta de crédito",
+"solicitar reversión de cargos de tarjetas de crédito","solicitar tarjeta de crédito adicional","administrar mensajes bac",
+"bloquear temporalmente una cuenta bancaria","solicitar emisión cheque de gerencia","solicitar enlace de cuentas propias para realizar transferencias",
+"solicitar cuenta bancaria","solicitar una referencia bancaria","consultar acumulación de puntos credomatic",
+"solicitar el pin del cajero automático","solicitar la reposición de tarjeta deteriorada","solicitar reclamo atm 5b/bi",
+"solicitar tarjeta de débito","solicitar el abono o cancelación de préstamo","solicitar proyección de pago de préstamos personales",
+"solicitar activación de asistencia funeraria","solicitar activación de cobertura sos","solicitar activación de seguro atraco atm",
+"abrir nuevo objetivo","enviar una queja o sugerencia","solicitar la deshabilitación de adelanto de salario (ads)",
+"solicitar servicio tpago","solicitar usuario para el portal de la superintendencia de bancos",
+"actualización de datos comercios afiliados","cambio de nombre en tarjeta","solicitud de finiquito",
+"solicitar otra tarjeta de crédito","solicitar Cuenta objetivos","solicitar préstamo de auto",
+"solicitar préstamo personal","solicitar préstamo hipotecario","solicitar préstamo planilla",
+"aumenta el límite de crédito","cancelar pago programado","convierte tus compras a plazos",
+"redimir cash o puntos bac credomatic","solicitud de extrafinanciamiento en su tarjeta de crédito ",
+"solicitud compass","solicitar afiliación nueva de un comercio","solicitud aprobación de plantillas para transferencias internacionales",
+"desbloqueo temporal","administrar mensajes bac","solicitar el traslado o devolución de saldo a favor de su tarjeta de crédito / devolución de saldo a favor",
+"solicitar reversión de cargos de tarjetas de crédito /mantenimiento priority pass",
+"solicitar reversión de cargos de tarjetas de crédito / reversión cargo seguro","solicitar el abono o cancelación de préstamo",
+"solicitud de tarjeta empresarial","solicitud de tarjeta adicional empresarial"
+]
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
 wholeDict = {}
@@ -141,72 +167,45 @@ for page in wholePages:
     #Honduras   
     #Nicaragua
     #Panamá 
+#-------------------------------------------------------------------------------------------------------------
+    cont = 0
+    #testDict ={}
+    #Realizar scrapping dentro del ciclo para analizar si existe la palabra Guatemala dentro del texto
+    #El campo "GT" sera True si el articulo contiene la palabra, de lo contrario sera False.
+    for gestion in gestiones:
 
-    articleLastUpdate = list()   
-    for hiperlink in hiperlinkHtmlExtended:
-        responseArticle = requests.get(hiperlink)
-        htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
-        articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
-        soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"}) 
-        #------Banca Móvil---------
-        if(str(soup).find("Banca Móvil")>=0):
-            print(str(soup).find("Banca Móvil"))
-            flagBM.append(True)
-            contadorBM+=1
-        elif(str(soup).find("Banca en Móvil")<0):
-            print(str(soup).find("Banca en Móvil"))
-            flagBM.append(False)
-        #------Banca en Línea---------
-        if(str(soup).find("Banca en Línea")>=0):
-            print(str(soup).find("Banca en Línea"))
-            flagBel.append(True)
-            contadorBel+=1
-        elif(str(soup).find("Banca en Línea")<0):
-            print(str(soup).find("Banca en Línea"))
-            flagBel.append(False)
-        #------Guatemala---------
-        if(str(soup).find("Guatemala")>=0):
-            print(str(soup).find("Guatemala"))
-            flagGT.append(True)
-            contadorGT+=1
-        elif(str(soup).find("Guatemala")<0):
-            print(str(soup).find("Guatemala"))
-            flagGT.append(False) 
-        #------Costa Rica---------
-        if(str(soup).find("Costa Rica")>=0):
-            print(str(soup).find("Costa Rica"))
-            flagCRI.append(True)
-        elif(str(soup).find("Costa Rica")<0):
-            print(str(soup).find("Costa Rica"))
-            flagCRI.append(False) 
-        #------El Salvador---------
-        if(str(soup).find("El Salvador")>=0):
-            print(str(soup).find("El Salvador"))
-            flagSLV.append(True)
-        elif(str(soup).find("El Salvador")<0):
-            print(str(soup).find("El Salvador"))
-            flagSLV.append(False) 
-        #------Honduras---------
-        if(str(soup).find("Honduras")>=0):
-            print(str(soup).find("Honduras"))
-            flagHND.append(True)
-        elif(str(soup).find("Honduras")<0):
-            print(str(soup).find("Honduras"))
-            flagHND.append(False)
-        #------Nicaragua---------
-        if(str(soup).find("Nicaragua")>=0):
-            print(str(soup).find("Nicaragua"))
-            flagNIC.append(True)
-        elif(str(soup).find("Nicaragua")<0):
-            print(str(soup).find("Nicaragua"))
-            flagNIC.append(False) 
-        #------Panamá---------
-        if(str(soup).find("Panamá")>=0):
-            print(str(soup).find("Panamá"))
-            flagPAN.append(True)
-        elif(str(soup).find("Panamá")<0):
-            print(str(soup).find("Panamá"))
-            flagPAN.append(False) 
+        testDict.setdefault(gestion,{})
+        # testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
+        # testDict[title].setdefault("descripcion",descriptionTitles[cont])
+        # testDict[title].setdefault("Última actualización",lastUpdates[cont])
+        # testDict[title].setdefault("BeL",flagBel[cont])
+        # testDict[title].setdefault("BM",flagBM[cont])
+        # testDict[title].setdefault("GT",flagGT[cont])
+        # testDict[title].setdefault("CRI",flagCRI[cont])
+        # testDict[title].setdefault("SLV",flagSLV[cont])
+        # testDict[title].setdefault("HND",flagHND[cont])
+        # testDict[title].setdefault("NIC",flagNIC[cont])
+        # testDict[title].setdefault("PAN",flagPAN[cont])
+        articleLastUpdate = list()   
+        for hiperlink in hiperlinkHtmlExtended:
+            responseArticle = requests.get(hiperlink)
+            htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
+            articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
+            soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"})
+            #soup.lower()
+            #------Banca Móvil---------
+            if(str(soup).lower().find(gestion)>=0):
+                print(str(soup).find(gestion))
+                testDict[gestion].setdefault("hipervinculo"+cont,hiperlinkHtmlExtended[cont])
+                #flagBM.append(True)
+                #contadorBM+=1
+            elif(str(soup).find(gestion)<0):
+                print(str(soup).find(gestion))
+                #flagBM.append(False)
+        #Ultima linea de la comprobacion
+        cont+=1
+
+    
         
 
     # Crear una lista de los ultimos updates de cada articulo
@@ -218,25 +217,7 @@ for page in wholePages:
     #-----------------------------------------------------------------------------------
 
 
-    cont = 0
-    #testDict ={}
-    #Realizar scrapping dentro del ciclo para analizar si existe la palabra Guatemala dentro del texto
-    #El campo "GT" sera True si el articulo contiene la palabra, de lo contrario sera False.
-    for title in articleTitles:
-
-        testDict.setdefault(title,{})
-        testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
-        testDict[title].setdefault("descripcion",descriptionTitles[cont])
-        testDict[title].setdefault("Última actualización",lastUpdates[cont])
-        testDict[title].setdefault("BeL",flagBel[cont])
-        testDict[title].setdefault("BM",flagBM[cont])
-        testDict[title].setdefault("GT",flagGT[cont])
-        testDict[title].setdefault("CRI",flagCRI[cont])
-        testDict[title].setdefault("SLV",flagSLV[cont])
-        testDict[title].setdefault("HND",flagHND[cont])
-        testDict[title].setdefault("NIC",flagNIC[cont])
-        testDict[title].setdefault("PAN",flagPAN[cont])
-        cont+=1
+    
     
 
 
@@ -248,6 +229,6 @@ print(json_data.decode())
 
 #print("Cantidad de articulos con la palabra Guatemala: "+ str(contadorGT))
 
-print("Articulos identificados que hacen mencion a Banca en Línea: "+ str(contadorBel))
-print("Articulos identificados que hacen mencion a Banca Móvil: "+ str(contadorBM))
+#print("Articulos identificados que hacen mencion a Banca en Línea: "+ str(contadorBel))
+#print("Articulos identificados que hacen mencion a Banca Móvil: "+ str(contadorBM))
 #print("Cantidad de articulos con la palabra Costa Rica: "+CRIflag)
