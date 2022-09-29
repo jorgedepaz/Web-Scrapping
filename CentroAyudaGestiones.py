@@ -81,6 +81,8 @@ wholeDict = {}
 href2 = list()
 testDict ={}
 contadorGT = 0
+contadorBel = 0
+contadorBM = 0
 for page in wholePages:
     urlPagina = page
     response = requests.get(urlPagina)
@@ -101,9 +103,9 @@ for page in wholePages:
         articleTitles.append(articleTitle.text.strip())
 
     # Crear una lista de los numeros de paginas
-    articleTitles = list()
-    for articleTitle in articleTitlesHtml:    
-        articleTitles.append(articleTitle.text.strip())
+    # articleTitles = list()
+    # for articleTitle in articleTitlesHtml:    
+    #     articleTitles.append(articleTitle.text.strip())
 
     # Crear una lista de los hipervinculos de cada articulo
     hiperlinkHtml = list()
@@ -112,7 +114,6 @@ for page in wholePages:
 
     #Lista concatenada con la ruta completa
     hiperlinkHtmlExtended = list()
-
     for link in hiperlinkHtml:
         link = root+str(link)
         hiperlinkHtmlExtended.append(link)
@@ -132,6 +133,8 @@ for page in wholePages:
     flagNIC = list() 
     flagPAN = list() 
 
+    flagBel = list()
+    flagBM = list()
     #Guatemala
     #Costa Rica
     #El Salvador
@@ -145,14 +148,30 @@ for page in wholePages:
         htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
         articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
         soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"}) 
+        #------Banca Móvil---------
+        if(str(soup).find("Banca Móvil")>=0):
+            print(str(soup).find("Banca Móvil"))
+            flagBM.append(True)
+            contadorBM+=1
+        elif(str(soup).find("Banca en Móvil")<0):
+            print(str(soup).find("Banca en Móvil"))
+            flagBM.append(False)
+        #------Banca en Línea---------
+        if(str(soup).find("Banca en Línea")>=0):
+            print(str(soup).find("Banca en Línea"))
+            flagBel.append(True)
+            contadorBel+=1
+        elif(str(soup).find("Banca en Línea")<0):
+            print(str(soup).find("Banca en Línea"))
+            flagBel.append(False)
         #------Guatemala---------
         if(str(soup).find("Guatemala")>=0):
             print(str(soup).find("Guatemala"))
-            flagGT.append(True)
+            flagBel.append(True)
             contadorGT+=1
         elif(str(soup).find("Guatemala")<0):
             print(str(soup).find("Guatemala"))
-            flagGT.append(False) 
+            flagBel.append(False) 
         #------Costa Rica---------
         if(str(soup).find("Costa Rica")>=0):
             print(str(soup).find("Costa Rica"))
@@ -209,6 +228,8 @@ for page in wholePages:
         testDict[title].setdefault("hipervinculo",hiperlinkHtmlExtended[cont])
         testDict[title].setdefault("descripcion",descriptionTitles[cont])
         testDict[title].setdefault("Última actualización",lastUpdates[cont])
+        testDict[title].setdefault("BeL",flagBel[cont])
+        testDict[title].setdefault("BM",flagBM[cont])
         testDict[title].setdefault("GT",flagGT[cont])
         testDict[title].setdefault("CRI",flagCRI[cont])
         testDict[title].setdefault("SLV",flagSLV[cont])
@@ -226,4 +247,7 @@ print('---------------------------------------Abajo el JSON---------------------
 print(json_data.decode())
 
 print("Cantidad de articulos con la palabra Guatemala: "+ str(contadorGT))
+
+print("Cantidad de articulos con la palabra Banca Móvil: "+ str(contadorBel))
+print("Cantidad de articulos con la palabra Banca en Línea: "+ str(contadorBM))
 #print("Cantidad de articulos con la palabra Costa Rica: "+CRIflag)
