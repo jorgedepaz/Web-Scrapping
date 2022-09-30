@@ -189,25 +189,29 @@ for page in wholePages:
         # cont+=1
     
     articleLastUpdate = list() 
-    hiperlinksList = list()
+    #Lista para indexar los hiperviculos de cada gestión 
+    
     for hiperlink in hiperlinkHtmlExtended:
+        cont = 0
+        hiperlinksList = list()
         responseArticle = requests.get(hiperlink)
         htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
         articleLastUpdate.append(htmlArticle.find('div', {"class" :"field field--name-node-changed-date field--type-ds field--label-inline"}).find('div',{"class" :"field--item"}))
+        #Se encuentra filtra solo el texto del Body
         soup = htmlArticle.find('div', {"class" :"row bs-1col node node--type-book node--view-mode-full"})
-            #soup.lower()
-            #------Banca Móvil---------
-        if(str(soup).lower().find(gestion)>=0):
-            print(str(soup).find(gestion))
-            hiperlinksList.append(hiperlinkHtmlExtended[cont])
+        #soup.lower()
+
+        #Ciclo para buscar las gestiones por nombre
+        for gestion in gestiones:
+            if(str(soup).lower().find(gestion)>=0):
+                print(str(soup).find(gestion))
+                
+                hiperlinksList.append(hiperlink)
+                testDict[gestion].setdefault("hipervinculo "+str(cont),hiperlink)
+                cont+=1    
+            elif(str(soup).find(gestion)<0):
+                print(str(soup).find(gestion))
             
-            testDict[gestion].setdefault("hipervinculo"+cont,hiperlinkHtmlExtended[cont])
-                #flagBM.append(True)
-                #contadorBM+=1
-        elif(str(soup).find(gestion)<0):
-            print(str(soup).find(gestion))
-                #flagBM.append(False)
-        #Ultima linea de la comprobacion
         
 
     # Crear una lista de los ultimos updates de cada articulo
