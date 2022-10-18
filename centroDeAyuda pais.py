@@ -90,6 +90,11 @@ wholeDict = {}
 href2 = list()
 testDict ={}
 contadorGT = 0
+contadorCRI = 0 
+contadorSLV = 0 
+contadorHND = 0 
+contadorNIC = 0 
+contadorPAN = 0
 for page in wholePages:
     urlPagina = page
     response = requests.get(urlPagina)
@@ -166,6 +171,7 @@ for page in wholePages:
         if(str(soup).find("Costa Rica")>=0):
             print(str(soup).find("Costa Rica"))
             flagCRI.append(True)
+            contadorCRI+=1
         elif(str(soup).find("Costa Rica")<0):
             print(str(soup).find("Costa Rica"))
             flagCRI.append(False) 
@@ -173,6 +179,7 @@ for page in wholePages:
         if(str(soup).find("El Salvador")>=0):
             print(str(soup).find("El Salvador"))
             flagSLV.append(True)
+            contadorSLV+=1
         elif(str(soup).find("El Salvador")<0):
             print(str(soup).find("El Salvador"))
             flagSLV.append(False) 
@@ -180,6 +187,7 @@ for page in wholePages:
         if(str(soup).find("Honduras")>=0):
             print(str(soup).find("Honduras"))
             flagHND.append(True)
+            contadorHND+=1
         elif(str(soup).find("Honduras")<0):
             print(str(soup).find("Honduras"))
             flagHND.append(False)
@@ -187,6 +195,7 @@ for page in wholePages:
         if(str(soup).find("Nicaragua")>=0):
             print(str(soup).find("Nicaragua"))
             flagNIC.append(True)
+            contadorNIC+=1
         elif(str(soup).find("Nicaragua")<0):
             print(str(soup).find("Nicaragua"))
             flagNIC.append(False) 
@@ -194,6 +203,7 @@ for page in wholePages:
         if(str(soup).find("Panamá")>=0):
             print(str(soup).find("Panamá"))
             flagPAN.append(True)
+            contadorPAN+=1
         elif(str(soup).find("Panamá")<0):
             print(str(soup).find("Panamá"))
             flagPAN.append(False) 
@@ -234,5 +244,10 @@ print('---------------------------------------Abajo el JSON---------------------
 
 print(json_data.decode())
 
-print("Cantidad de articulos con la palabra Guatemala: "+ str(contadorGT))
+print("Cantidad de articulos con mencion a Guatemala: "+ str(contadorGT))
+print("Cantidad de articulos con mencion a Costa Rica: "+ str(contadorCRI))
+print("Cantidad de articulos con mencion a El Salvador: "+ str(contadorSLV))
+print("Cantidad de articulos con mencion a Honduras: "+ str(contadorHND))
+print("Cantidad de articulos con mencion a Nicaragua: "+ str(contadorNIC))
+print("Cantidad de articulos con mencion a Panama: "+ str(contadorPAN))
 #print("Cantidad de articulos con la palabra Costa Rica: "+CRIflag)
