@@ -141,14 +141,14 @@ for page in wholePages:
     
 json_data = json.dumps(wholeDict,ensure_ascii=False,indent=3).encode('utf8')
 #print(json_data.decode()) 
-with open('article_hiperlinks.json', 'w') as f:
+with open('article_h2.json', 'w') as f:
     json.dump(wholeDict, f, indent=2)
     print("Archivo json creado")
 
 
 
 
-with open('hiperlinks.csv', 'w', encoding='UTF8') as f:
+with open('h2.csv', 'w', encoding='UTF8') as f:
     writer = csv.writer(f)
     writer.writerow(href2)
     print("Archivo csv creado")
