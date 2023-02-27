@@ -241,7 +241,6 @@
     "direccion": "https://ayuda.baccredomatic.com/es/banca_en_linea_y_banca_movil/transferencias/como-funciona-sinpe-movil-de-bac-credomatic",
     "headers 2": [
       "Activar SINPE M\u00f3vil",
-      "",
       "Utilizar SINPE M\u00f3vil",
       "Desafiliar el servicio de SINPE M\u00f3vil",
       "Recomendaciones adicionales",
@@ -476,7 +475,7 @@
       "Transferencias a otros bancos",
       "Pre-registro de cuentas en l\u00ednea",
       "Pre-registro de cuentas",
-      "Ameritransfer",
+      "Ameritr@nsfer",
       "Trasladar dinero desde otro banco",
       "Otros tipos de transferencias",
       "Recomendaciones adicionales",
@@ -606,7 +605,8 @@
     "direccion": "https://ayuda.baccredomatic.com/es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito",
     "headers 2": [
       "Conocer la fecha de pago y\u00a0monto pendiente de mi tarjeta",
-      "Pagar mi tarjeta de cr\u00e9dito o la de un tercero en l\u00ednea",
+      "Pagar mi tarjeta de cr\u00e9dito en l\u00ednea",
+      "Pagar\u00a0la tarjeta de un tercero en l\u00ednea",
       "Consideraciones importantes",
       "Recomendaciones adicionales",
       "\u00bfFue de ayuda este art\u00edculo?"
@@ -927,6 +927,16 @@
       "\u00bfFue de ayuda este art\u00edculo?"
     ]
   },
+  "Cuenta digital": {
+    "direccion": "https://ayuda.baccredomatic.com/es/personas/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/cuenta-digital",
+    "headers 2": [
+      "Soy cliente BAC Credomatic",
+      "No soy cliente BAC Credomatic",
+      "Incluir la informaci\u00f3n de mis documentos de identificaci\u00f3n",
+      "A\u00f1adir informaci\u00f3n adicional para abrir la cuenta digital",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
   "Dispositivos compatibles con Banca M\u00f3vil": {
     "direccion": "https://ayuda.baccredomatic.com/es/codigo_bac/dispositivos-compatibles-con-banca-movil",
     "headers 2": [
@@ -941,7 +951,6 @@
     "headers 2": [
       "Mi C\u00f3digo BAC no funciona",
       "Los c\u00f3digos generados con C\u00f3digo BAC no funcionan",
-      "",
       "Mi tarjeta de coordenadas no funciona",
       "Olvid\u00e9 mi PIN de acceso a C\u00f3digo BAC",
       "No puedo activar o instalar C\u00f3digo BAC en otro tel\u00e9fono",
@@ -1245,6 +1254,41 @@
       "\u00bfFue de ayuda este art\u00edculo?"
     ]
   },
+  "Cloud": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/cloud",
+    "headers 2": [
+      "Requisitos",
+      "Beneficios",
+      "Costos",
+      "Solicitud",
+      "Preguntas frecuentes",
+      "Recomendaciones adicionales",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Flota BAC Credomatic": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/flota-bac-credomatic",
+    "headers 2": [
+      "Requisitos",
+      "Beneficios",
+      "Costos",
+      "Solicitud",
+      "Recomendaciones adicionales",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Preguntas frecuentes de Flota BAC Credomatic": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/preguntas-frecuentes-de-flota-bac-credomatic",
+    "headers 2": [
+      "\u00bfLas transacciones realizadas con Flota BAC Credomatic aparecen en mi Banca en L\u00ednea?",
+      "\u00bfLa plataforma brinda un reporte de transacciones en tiempo real?",
+      "\u00bfLa plataforma cuenta con facturaci\u00f3n consolidada?",
+      "\u00bfLa plataforma cuenta con una App M\u00f3vil Android y IOS?",
+      "\u00bfSe puede consultar el saldo desde el App?",
+      "Recomendaciones adicionales",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
   "Liberaci\u00f3n de un monto retenido": {
     "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/liberacion-de-un-monto-retenido",
     "headers 2": [
@@ -1266,6 +1310,82 @@
     "headers 2": [
       "Solicitud",
       "Tiempo de atenci\u00f3n",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Corregir una cuota ingresada incorrectamente": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/corregir-una-cuota-ingresada-incorrectamente",
+    "headers 2": [
+      "Documentaci\u00f3n",
+      "Tiempo de Atenci\u00f3n",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Solicitar retenci\u00f3n mensual o de meses anteriores": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/solicitar-retencion-mensual-o-de-meses-anteriores",
+    "headers 2": [
+      "Solicitud de retenci\u00f3n mensual",
+      "Tiempo de atenci\u00f3n",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Reclamo de transacciones no acreditadas al comercio": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/reclamo-de-transacciones-no-acreditadas-al-comercio",
+    "headers 2": [
+      "Documentaci\u00f3n requerida",
+      "Solicitud",
+      "Tiempo de atenci\u00f3n",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Reprogramaci\u00f3n del POS": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/reprogramacion-del-pos",
+    "headers 2": [
+      "Documentaci\u00f3n requerida",
+      "Tiempo de Atenci\u00f3n",
+      "Recomendaciones adicionales",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Resumen de ventas o transacciones": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/resumen-de-ventas-o-transacciones",
+    "headers 2": [
+      "Solicitud",
+      "Recomendaciones adicionales",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Reintegro de una transacci\u00f3n duplicada": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/reintegro-de-una-transaccion-duplicada",
+    "headers 2": [
+      "Beneficios",
+      "Requisitos",
+      "Solicitud",
+      "Tiempo de Atenci\u00f3n",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Punto de Ventas para Restaurantes BAC Credomatic": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/punto-de-ventas-para-restaurantes-bac-credomatic",
+    "headers 2": [
+      "Requisitos",
+      "Beneficios",
+      "Costos",
+      "Preguntas Frecuentes",
+      "Solicitud",
+      "Recomendaciones adicionales",
+      "\u00bfFue de ayuda este art\u00edculo?"
+    ]
+  },
+  "Gestiones para comercios afiliados": {
+    "direccion": "https://ayuda.baccredomatic.com/es/pymes/comercios_afiliados/gestiones-para-comercios-afiliados",
+    "headers 2": [
+      "Costa Rica",
+      "El Salvador",
+      "Guatemala",
+      "Honduras",
+      "Nicaragua",
+      "Panam\u00e1",
       "\u00bfFue de ayuda este art\u00edculo?"
     ]
   },

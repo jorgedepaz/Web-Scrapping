@@ -52,7 +52,7 @@ verTodasComerciosAfiliados = [
     'https://ayuda.baccredomatic.com/es/comercios-afiliados'
 ]
 
-wholePages = [#Actualizado 18/10/2022
+wholePages = [#Actualizado 17/1/2023
     'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
     'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
     'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
@@ -71,15 +71,18 @@ wholePages = [#Actualizado 18/10/2022
     'https://ayuda.baccredomatic.com/es/canales-de-atencion','https://ayuda.baccredomatic.com/es/canales-de-atencion?field_subcategory=All&page=1',
 
     'https://ayuda.baccredomatic.com/es/prestamos',
+
     'https://ayuda.baccredomatic.com/es/seguros-y-coberturas',
 
     'https://ayuda.baccredomatic.com/es/comercios-afiliados','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=1',
+    'https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=3',
 
     "https://ayuda.baccredomatic.com/es/banca-empresarial","https://ayuda.baccredomatic.com/es/banca-empresarial?field_subcategory=All&page=1",
 
     "https://ayuda.baccredomatic.com/es/pymes"
 
 ]
+
 wholeDict = {}
 h22 = list()
 for page in wholePages:
