@@ -7,6 +7,7 @@ import requests
 
 import json
 import csv  
+from searchData import wholePages
 
 from bs4 import BeautifulSoup
 
@@ -16,72 +17,6 @@ root = 'https://ayuda.baccredomatic.com'
 #Diccionario con la data para generar el indice en formato JSON
 centroDeAyuda = {}
 
-verTodasBancaEnLinea = [
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=6', 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=8'
-    ]
-
-verTodasTarjetasDeCredito = [
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=4'
-]
-
-verTodasCuentasBancarias = [
-    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito','https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito?field_subcategory=All&page=1'
-]
-
-verTodasCodigoBAC = [
-    'https://ayuda.baccredomatic.com/es/codigo-bac','https://ayuda.baccredomatic.com/es/codigo-bac?field_subcategory=All&page=1'
-]
-verTodasCanalesDeAtencion=[
-    'https://ayuda.baccredomatic.com/es/canales-de-atencion','https://ayuda.baccredomatic.com/es/canales-de-atencion?field_subcategory=All&page=1'
-]
-verTodasPrestamos = [
-    'https://ayuda.baccredomatic.com/es/prestamos'
-]
-
-verTodasSeguroYCoverturas =[
-    'https://ayuda.baccredomatic.com/es/seguros-y-coberturas'
-]
-
-verTodasComerciosAfiliados = [
-    'https://ayuda.baccredomatic.com/es/comercios-afiliados'
-]
-
-wholePages = [#Actualizado 17/1/2023
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=6', 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=8',
-    
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=4',
-    
-    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito',
-    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito?field_subcategory=All&page=1',
-
-    'https://ayuda.baccredomatic.com/es/codigo-bac','https://ayuda.baccredomatic.com/es/codigo-bac?field_subcategory=All&page=1',
-
-    'https://ayuda.baccredomatic.com/es/canales-de-atencion','https://ayuda.baccredomatic.com/es/canales-de-atencion?field_subcategory=All&page=1',
-
-    'https://ayuda.baccredomatic.com/es/prestamos',
-
-    'https://ayuda.baccredomatic.com/es/seguros-y-coberturas',
-
-    'https://ayuda.baccredomatic.com/es/comercios-afiliados','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=3',
-
-    "https://ayuda.baccredomatic.com/es/banca-empresarial","https://ayuda.baccredomatic.com/es/banca-empresarial?field_subcategory=All&page=1",
-
-    "https://ayuda.baccredomatic.com/es/pymes"
-
-]
 
 wholeDict = {}
 h22 = list()

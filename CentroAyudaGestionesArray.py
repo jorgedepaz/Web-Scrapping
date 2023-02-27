@@ -5,10 +5,12 @@ import urllib.request as urllib2
 import requests
 import json
 from bs4 import BeautifulSoup
-import searchData
 
-wholePages = searchData.wholePages 
-gestiones = searchData.gestiones
+# Whole pages es el array que contiene todas los links de las paginas
+from searchData import wholePages
+# Gestiones es el array que contiene todas las gestiones a buscar
+from searchData import gestiones
+
 #Ruta raiz
 root = 'https://ayuda.baccredomatic.com/'
 
@@ -23,7 +25,7 @@ urlsTemas = ['COMPASS','Pagos%20de%20servicios','Problemas%20en%20Banca%20en%20L
 #Diccionario con la data para generar el indice en formato JSON
 centroDeAyuda = {}
 
-# Whole pages es el array que contiene todas los links de las paginas
+
 
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
@@ -147,7 +149,6 @@ print('---------------------------------------Abajo el JSON---------------------
 print(json_data.decode())
 
 #print("Cantidad de articulos con la palabra Guatemala: "+ str(contadorGT))
-
 #print("Articulos identificados que hacen mencion a Banca en Línea: "+ str(contadorBel))
 #print("Articulos identificados que hacen mencion a Banca Móvil: "+ str(contadorBM))
 #print("Cantidad de articulos con la palabra Costa Rica: "+CRIflag)
