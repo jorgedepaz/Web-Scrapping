@@ -1,5 +1,4 @@
-wholePages = [#Actualizado 27/1/2023
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
+"""
     'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
     'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
     'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=6', 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7',
@@ -26,7 +25,13 @@ wholePages = [#Actualizado 27/1/2023
     "https://ayuda.baccredomatic.com/es/banca-empresarial","https://ayuda.baccredomatic.com/es/banca-empresarial?field_subcategory=All&page=1",
 
     "https://ayuda.baccredomatic.com/es/pymes"
+"""
+
+wholePages = [#Actualizado 27/1/2023
+    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',   
 ]
+
+ 
 
 gestiones = [#Actualizado 27/1/2023
 "cobertura de tarjeta de débito","cobertura de tarjeta de crédito","actualizar sus datos","cancelación de cuenta",

@@ -1,6 +1,8 @@
 #Test para el conteo de visitas de los shot links de reach tools
 
 # Importar módulos
+import sys
+sys.path.append('../')
 from ast import For, If
 import urllib.request as urllib2
 import requests
@@ -8,6 +10,8 @@ import json
 from bs4 import BeautifulSoup
 from searchData import wholePages
 
+
+print(wholePages)
 #Ruta raiz
 root = 'https://ayuda.baccredomatic.com/'
 

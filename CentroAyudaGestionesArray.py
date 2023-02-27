@@ -5,6 +5,7 @@ import urllib.request as urllib2
 import requests
 import json
 from bs4 import BeautifulSoup
+import os
 
 # Whole pages es el array que contiene todas los links de las paginas
 from searchData import wholePages
@@ -24,8 +25,6 @@ urlsTemas = ['COMPASS','Pagos%20de%20servicios','Problemas%20en%20Banca%20en%20L
 
 #Diccionario con la data para generar el indice en formato JSON
 centroDeAyuda = {}
-
-
 
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
@@ -132,7 +131,7 @@ for page in wholePages:
             elif(str(soup).find(gestion)<0):
                 print(str(soup).find(gestion))
             
-        
+    wholeDict.update(testDict)
 
     # Crear una lista de los ultimos updates de cada articulo
     # lastUpdates =list()
@@ -141,13 +140,18 @@ for page in wholePages:
     #----------------------------------------------------
 
     #-----------------------------------------------------------------------------------
-
+    #Se crea el documento JSON
     json_data = json.dumps(testDict,ensure_ascii=False,indent=3).encode('utf8')
+    
+    #Crear el archivo
+with open(os.path.join('C:/Users/jorge.depazr/Documents/Dev/Web Scrapping/results','gestiones.json'), 'w', encoding="utf-8") as f:
+    #str(wholeDict).encode('utf-8')  #<---Se agregaria esta linea de código si la data no estubiera codificada en utf-8
+    json.dump(wholeDict, f,ensure_ascii=False, indent=2)
+    print("Archivo json creado")
+
 #print(flagGT)
 print('---------------------------------------Abajo el JSON------------------------------------------------')
-
 print(json_data.decode())
-
 #print("Cantidad de articulos con la palabra Guatemala: "+ str(contadorGT))
 #print("Articulos identificados que hacen mencion a Banca en Línea: "+ str(contadorBel))
 #print("Articulos identificados que hacen mencion a Banca Móvil: "+ str(contadorBM))
