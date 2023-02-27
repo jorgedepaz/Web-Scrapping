@@ -1,4 +1,4 @@
-#Web scrapping para la categoria de Banca En Línea Y Banca Móvil
+#Web scrapping para identificar articulos que hacen mencion a bel y bm
 
 # Importar módulos
 from ast import For, If
@@ -24,73 +24,9 @@ centroDeAyuda = {}
 # Ejecutar GET-Request
 #response = requests.get(urlCategoria+str(urlsTemas[1]))
 
-verTodasBancaEnLinea = [
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=6', 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=8'
-    ]
+# Whole pages es el array que contiene todas los links de las paginas
+from searchData import wholePages
 
-
-verTodasTarjetasDeCredito = [
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=4'
-]
-
-verTodasCuentasBancarias = [
-    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito','https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito?field_subcategory=All&page=1'
-]
-
-verTodasCodigoBAC = [
-    'https://ayuda.baccredomatic.com/es/codigo-bac','https://ayuda.baccredomatic.com/es/codigo-bac?field_subcategory=All&page=1'
-]
-verTodasCanalesDeAtencion=[
-    'https://ayuda.baccredomatic.com/es/canales-de-atencion','https://ayuda.baccredomatic.com/es/canales-de-atencion?field_subcategory=All&page=1'
-]
-verTodasPrestamos = [
-    'https://ayuda.baccredomatic.com/es/prestamos'
-]
-verTodasSeguroYCoverturas =[
-    'https://ayuda.baccredomatic.com/es/seguros-y-coberturas'
-]
-verTodasComerciosAfiliados = [
-    'https://ayuda.baccredomatic.com/es/comercios-afiliados','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=1'
-]
-
-
-
-wholePages = [#Actualizado 17/1/2023
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=4','https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=5',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=6', 'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=7',
-    'https://ayuda.baccredomatic.com/es/banca-en-linea-y-banca-movil?field_subcategory=All&page=8',
-    
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=3',
-    'https://ayuda.baccredomatic.com/es/tarjetas-de-credito?field_subcategory=All&page=4',
-    
-    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito',
-    'https://ayuda.baccredomatic.com/es/cuentas-bancarias-y-tarjetas-de-debito?field_subcategory=All&page=1',
-
-    'https://ayuda.baccredomatic.com/es/codigo-bac','https://ayuda.baccredomatic.com/es/codigo-bac?field_subcategory=All&page=1',
-
-    'https://ayuda.baccredomatic.com/es/canales-de-atencion','https://ayuda.baccredomatic.com/es/canales-de-atencion?field_subcategory=All&page=1',
-
-    'https://ayuda.baccredomatic.com/es/prestamos',
-
-    'https://ayuda.baccredomatic.com/es/seguros-y-coberturas',
-
-    'https://ayuda.baccredomatic.com/es/comercios-afiliados','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=1',
-    'https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=2','https://ayuda.baccredomatic.com/es/comercios-afiliados?field_subcategory=All&page=3',
-
-    "https://ayuda.baccredomatic.com/es/banca-empresarial","https://ayuda.baccredomatic.com/es/banca-empresarial?field_subcategory=All&page=1",
-
-    "https://ayuda.baccredomatic.com/es/pymes"
-
-]
 #para obtener informacion de temas con paginas
 #urlPagina = 'https://ayuda.baccredomatic.com/es/comercios-afiliados' 
 wholeDict = {}
@@ -141,7 +77,7 @@ for page in wholePages:
 
 
     #Web scrapping del articulo para setear el flag GT y obtener la última actualización 
-    #
+    
     flagGT = list() 
     flagCRI = list() 
     flagSLV = list() 
@@ -151,12 +87,7 @@ for page in wholePages:
 
     flagBel = list()
     flagBM = list()
-    #Guatemala
-    #Costa Rica
-    #El Salvador
-    #Honduras   
-    #Nicaragua
-    #Panamá 
+    
 
     articleLastUpdate = list()   
     for hiperlink in hiperlinkHtmlExtended:

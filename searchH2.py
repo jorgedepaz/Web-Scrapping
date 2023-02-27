@@ -90,7 +90,7 @@ for page in wholePages:
 json_data = json.dumps(wholeDict,ensure_ascii=False,indent=3).encode('utf8')
 print(json_data.decode()) 
 
-with open('article_h2.json', 'w') as f:
+with open('article_h2.json', 'w', encoding="utf-8") as f:
     json.dump(wholeDict, f,ensure_ascii=False, indent=2)
     print("Archivo json creado")
 
