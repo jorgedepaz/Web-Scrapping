@@ -31,15 +31,18 @@ centroDeAyuda = {}
 wholeDict = {}
 href2 = list()
 testDict ={}
-contadorGT = 0
-contadorCRI = 0 
-contadorSLV = 0 
-contadorHND = 0 
-contadorNIC = 0 
-contadorPAN = 0
+
 
 def getCountries():
+    print("Wait a minute, working on!")
+    contadorGT = 0
+    contadorCRI = 0 
+    contadorSLV = 0 
+    contadorHND = 0 
+    contadorNIC = 0 
+    contadorPAN = 0
     for page in wholePages:
+        print(".")
         urlPagina = page
         response = requests.get(urlPagina)
 
@@ -137,13 +140,9 @@ def getCountries():
         lastUpdates =list()
         for lastUpdate in articleLastUpdate:
             lastUpdates.append(lastUpdate.text.strip())
-        #----------------------------------------------------
-
-        #-----------------------------------------------------------------------------------
-
 
         cont = 0
-        #testDict ={}
+        
         #Realizar scrapping dentro del ciclo para analizar si existe la palabra Guatemala dentro del texto
         #El campo "GT" sera True si el articulo contiene la palabra, de lo contrario sera False.
         for title in articleTitles:
@@ -159,21 +158,19 @@ def getCountries():
             testDict[title].setdefault("NIC",flagNIC[cont])
             testDict[title].setdefault("PAN",flagPAN[cont])
             cont+=1
-        
+    print(
+    "Cantidad de articulos con mencion a Guatemala: "+ str(contadorGT)+"\n",
+    "Cantidad de articulos con mencion a Costa Rica: "+ str(contadorCRI)+"\n",
+    "Cantidad de articulos con mencion a El Salvador: "+ str(contadorSLV)+"\n",
+    "Cantidad de articulos con mencion a Honduras: "+ str(contadorHND)+"\n",
+    "Cantidad de articulos con mencion a Nicaragua: "+ str(contadorNIC)+"\n",
+    "Cantidad de articulos con mencion a Panama: "+ str(contadorPAN)+"\n"
+    )    
 
 
-        json_data = json.dumps(testDict,ensure_ascii=False,indent=3).encode('utf8')
-        print(json_data.decode())
-#print(flagGT)
+    json_data = json.dumps(testDict,ensure_ascii=False,indent=3).encode('utf8')
+    return(testDict,json_data)
 
 
-dictRes={
-    "Cantidad de articulos con mencion a Guatemala: ": str(contadorGT),
-    "Cantidad de articulos con mencion a Costa Rica: ": str(contadorCRI),
-    "Cantidad de articulos con mencion a El Salvador: ": str(contadorSLV),
-    "Cantidad de articulos con mencion a Honduras: ": str(contadorHND),
-    "Cantidad de articulos con mencion a Nicaragua: ": str(contadorNIC),
-    "Cantidad de articulos con mencion a Panama: ": str(contadorPAN)
-}
-return()
-#print("Cantidad de articulos con la palabra Costa Rica: "+CRIflag)
+
+

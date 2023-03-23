@@ -34,10 +34,13 @@ testDict ={}
 contadorGT = 0
 contadorBel = 0
 contadorBM = 0
+
 #print(len(gestiones))
 
 def CAGestion():
+    contArticles = 0
     print("Wait a minute, working on!")
+    #contArticles = 0
     for page in wholePages:
         print(".")
         urlPagina = page
@@ -102,8 +105,11 @@ def CAGestion():
         articleLastUpdate = list() 
         #Lista para indexar los hiperviculos de cada gestión 
         
+        
+        
         for hiperlink in hiperlinkHtmlExtended:           
             cont = 0
+            contArticles =contArticles+1
             hiperlinksList = list()
             responseArticle = requests.get(hiperlink)
             htmlArticle = BeautifulSoup(responseArticle.text, 'html.parser')
@@ -123,7 +129,10 @@ def CAGestion():
                 elif(str(soup).find(gestion)<0):
                     pass
                     #print(str(soup).find(gestion))
-                
+        print("Number of articles: "+str(contArticles))
+                            
+        #contArticles = 0
+
         wholeDict.update(testDict)
 
         # Crear una lista de los ultimos updates de cada articulo

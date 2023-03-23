@@ -1,34 +1,58 @@
 {
   "cobertura de tarjeta de débito": {},
-  "cobertura de tarjeta de crédito": {},
-  "actualizar sus datos": {},
+  "cobertura de tarjeta de crédito": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/seguros_y_coberturas/tipos_de_seguro/plan-de-proteccion-atraco-plus"
+  },
+  "actualizar sus datos": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/actualizar-mis-datos-desde-los"
+  },
   "cancelación de cuenta": {},
   "reactivación de una cuenta bancaria": {},
-  "administrar correo electrónico para recibir estados de cuenta": {},
+  "administrar correo electrónico para recibir estados de cuenta": {
+    "hipervinculo 1": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/estado_de_cuenta/visualizar-los-estados-de-cuenta-de-mis-tarjetas"
+  },
   "administrar mensajes bacadministrar tarjetas adicionales (administrador virtual)": {},
   "bloquear temporalmente una tarjeta de crédito": {},
   "cambiar el tipo o marca de la tarjeta tc": {},
-  "cambiar la fecha de pago": {},
+  "cambiar la fecha de pago": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/como-pagar-mi-tarjeta-de-credito"
+  },
   "cancelar anticipadamente un extrafinaciamiento": {},
-  "disminuir el límite de crédito": {},
+  "disminuir el límite de crédito": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/cambiar-el-limite-de-mi-tarjeta-de-credito"
+  },
   "eliminar el retenido de compra de la tarjeta de crédito": {},
   "pagar la tarjeta de crédito con débito a cuenta": {},
   "referir a un amigo": {},
   "solicitar conversión de moneda del saldo de crédito": {},
-  "solicitar el traslado o devolución de saldo a favor de su tarjeta de crédito": {},
+  "solicitar el traslado o devolución de saldo a favor de su tarjeta de crédito": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/devolucion-o-reembolso-en-mi-tarjeta-de-credito"
+  },
   "solicitar reversión de cargos de tarjetas de crédito": {},
-  "solicitar tarjeta de crédito adicional": {},
+  "solicitar tarjeta de crédito adicional": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/solicitar-una-tarjeta-adicional"
+  },
   "administrar mensajes bac": {},
-  "bloquear temporalmente una cuenta bancaria": {},
+  "bloquear temporalmente una cuenta bancaria": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/bloqueo-y-desbloqueo-temporal-de"
+  },
   "solicitar emisión cheque de gerencia": {},
-  "solicitar enlace de cuentas propias para realizar transferencias": {},
-  "solicitar cuenta bancaria": {},
+  "solicitar enlace de cuentas propias para realizar transferencias": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/transferencias/como-hacer-transferencias"
+  },
+  "solicitar cuenta bancaria": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/abrir-una-cuenta-bancaria"
+  },
   "solicitar una referencia bancaria": {},
   "consultar acumulación de puntos credomatic": {},
   "solicitar el pin del cajero automático": {},
-  "solicitar la reposición de tarjeta deteriorada": {},
+  "solicitar la reposición de tarjeta deteriorada": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/cuentas_bancarias_y_tarjetas_de_debito-tarjetas_de_credito/solicitudes_y_gestiones-solicitudes_y"
+  },
   "solicitar reclamo atm 5b/bi": {},
-  "solicitar tarjeta de débito": {},
+  "solicitar tarjeta de débito": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/cuentas_bancarias_y_tarjetas_de_debito/solicitudes_y_gestiones/activacion-de-una-nueva-tarjeta-de"
+  },
   "solicitar el Abono o Cancelación de préstamo": {},
   "solicitar proyección de pago de préstamos personales": {},
   "solicitar activación de asistencia funeraria": {},
@@ -39,24 +63,37 @@
   "solicitar la deshabilitación de adelanto de salario (ads)": {},
   "solicitar servicio tpago": {},
   "solicitar usuario para el portal de la superintendencia de bancos": {},
-  "actualización de datos comercios afiliados": {},
+  "actualización de datos comercios afiliados": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/pymes/comercios_afiliados/gestiones-para-comercios-afiliados"
+  },
   "cambio de nombre en tarjeta": {},
   "solicitud de finiquito": {},
-  "solicitar otra tarjeta de crédito": {},
+  "solicitar otra tarjeta de crédito": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/activacion-de-una-nueva-tarjeta-de-credito"
+  },
   "solicitar cuenta objetivos": {},
   "solicitar préstamo de auto": {},
   "solicitar préstamo personal": {},
   "solicitar préstamo hipotecario": {},
   "solicitar préstamo planilla": {},
-  "aumenta el límite de crédito": {},
+  "aumenta el límite de crédito": {
+    "hipervinculo 1": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/cambiar-el-limite-de-mi-tarjeta-de-credito"
+  },
   "cancelar pago programado": {},
-  "convierte tus compras a plazos": {},
-  "redimir cash o puntos bac credomatic": {},
+  "convierte tus compras a plazos": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/financiamientos/minicuotas-bac-credomatic"
+  },
+  "redimir cash o puntos bac credomatic": {
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/tarjetas_de_credito/solicitudes_y_gestiones/redimir-o-canjear-mis-puntos-bac-credomatic"
+  },
   "solicitud de extrafinanciamiento en su tarjeta de crédito": {},
   "solicitud Compass": {},
   "solicitar afiliación nueva de un comercio": {},
   "solicitud aprobación de plantillas para transferencias internacionales": {},
-  "desbloqueo temporal": {},
+  "desbloqueo temporal": {
+    "hipervinculo 1": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/bloqueo-y-desbloqueo-temporal-de",
+    "hipervinculo 0": "https://ayuda.baccredomatic.com//es/personas/tarjetas_de_credito/solicitudes_y_gestiones/consulta-de-tarjeta-desde-los-canales"
+  },
   "solicitar el traslado o devolución de saldo a favor de su tarjeta de crédito / devolución de saldo a favor": {},
   "solicitar reversión de cargos de tarjetas de crédito / mantenimiento Priority Pass": {},
   "solicitar reversión de cargos de tarjetas de crédito / reversión Cargo Seguro": {},

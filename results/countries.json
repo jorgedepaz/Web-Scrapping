@@ -1,0 +1,68 @@
+{
+  "Crear usuario de Banca Móvil y/o Banca en Línea": {
+    "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/usuario_y_contrasena/crear-usuario-de-banca-movil-yo-banca-en-linea",
+    "descripcion": "Conozca cómo crear su usuario de Banca en Línea y Banca Móvil, 100% digital. Necesita su número de tarjeta de crédito, débito o un número de cuenta.",
+    "Última actualización": "11/30/2022",
+    "GT": false,
+    "CRI": false,
+    "SLV": false,
+    "HND": false,
+    "NIC": false,
+    "PAN": false
+  },
+  "Problemas al ingresar con huella o FaceID": {
+    "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/problemas-al-ingresar-con",
+    "descripcion": "Conozca cómo solucionar problemas con su Face ID o huella. Debe verificar que el lector de huellas esté limpio o puede que su teléfono no sea compatible.",
+    "Última actualización": "11/30/2022",
+    "GT": false,
+    "CRI": false,
+    "SLV": false,
+    "HND": false,
+    "NIC": false,
+    "PAN": false
+  },
+  "Recuperar mi contraseña": {
+    "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/usuario_y_contrasena/recuperar-mi-contrasena",
+    "descripcion": "Conozca cómo recuperar su contraseña de Banca en Línea o Banca Móvil o solucionar cualquier inconveniente que le impida acceder a sus cuentas BAC Credomatic.",
+    "Última actualización": "02/28/2023",
+    "GT": true,
+    "CRI": true,
+    "SLV": true,
+    "HND": true,
+    "NIC": true,
+    "PAN": true
+  },
+  "Solución de problemas con Banca Móvil": {
+    "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/problemas_en_banca_en_linea_y_banca_movil/solucion-de-problemas-con-0",
+    "descripcion": "Conozca cómo solucionar problemas con Banca Móvil. Verifique que su app y celular estén actualizados",
+    "Última actualización": "03/06/2023",
+    "GT": false,
+    "CRI": false,
+    "SLV": false,
+    "HND": false,
+    "NIC": false,
+    "PAN": false
+  },
+  "¿Cómo actualizar la fecha y hora del dispositivo?": {
+    "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-la-fecha-y-hora-del",
+    "descripcion": "Para que Banca Móvil y Código BAC funcionen correctamente, la hora de su celular debe ser exacta. Revise este artículo para conocer cómo actualizarla.",
+    "Última actualización": "03/21/2022",
+    "GT": false,
+    "CRI": false,
+    "SLV": false,
+    "HND": false,
+    "NIC": false,
+    "PAN": false
+  },
+  "¿Cómo actualizar el software del dispositivo?": {
+    "hipervinculo": "https://ayuda.baccredomatic.com//es/banca_en_linea_y_banca_movil/solicitudes_y_gestiones_en_linea/como-actualizar-el-software-del",
+    "descripcion": "Conozca cómo actualizar el software de su celular. Para que su Banca Móvil funcione correctamente, descargue la última versión del sistema operativo de su celular.",
+    "Última actualización": "12/05/2022",
+    "GT": false,
+    "CRI": false,
+    "SLV": false,
+    "HND": false,
+    "NIC": false,
+    "PAN": false
+  }
+}

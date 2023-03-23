@@ -1,4 +1,4 @@
-#Web scrapping para la categoria de Banca En Línea Y Banca Móvil
+#Web scrapping para encontrar todos los hiperviculos dentro del CA
 
 # Importar módulos
 from ast import If
@@ -85,10 +85,10 @@ with open('article_hiperlinks.json', 'w') as f:
 
 
 
-with open('hiperlinks.csv', 'w', encoding='UTF8') as f:
+"""with open('hiperlinks.csv', 'w', encoding='UTF8') as f:
     writer = csv.writer(f)
     writer.writerow(href2)
-    print("Archivo csv creado")
+    print("Archivo csv creado")"""
 
 print("Cantidad de articulos analizados: "+str(len(wholeDict)))     
 print("Cantidad total de hiperviculos encontrados: "+str(len(href2)))     

@@ -1,9 +1,10 @@
 from CentroAyudaGestionesArray import CAGestion
+from centroDeAyudaPais import getCountries
 import json
 import os
 
-menu = {1:"Mentioned gestions bel/bm", 2:"Mentioned countries in articles",3:"OPA's inside articles",4:"BeL BM mentions on articles"}
-print("Welcome to the Centro de Ayuda's page web scrapping :D")
+menu = {1:"Mentioned gestions bel/bm", 2:"Mentioned countries in articles",3:"Href inside articles",4:"BeL BM mentions on articles"}
+print("Welcome to the Centro de Ayuda's web scrapping :D")
 for task in menu:
     print(str(task)+": "+menu[task])
 index = input("Select the index of the data you want to get and press enter \n")
@@ -13,7 +14,8 @@ match index:
         res = CAGestion()
         fileName = "gestiones.json"
     case "2":
-        print('Countries')
+        res = getCountries()
+        fileName = "countries.json"
     case "3":
         print("OPA's")
     case "4":
